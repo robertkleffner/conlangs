@@ -84,19 +84,40 @@ o-ii
 
 ## Syllable construction
 
-(C)V(C) if V is an r-colored vowel, otherwise
+(I)V(T)
 
-(C)V(V)
+R-colored vowels followed by another vowel are not permissible, or always analyzed as (C)VrV
 
-R-colored vowels followed by another vowel are not permissible, and always analyzed as (C)VrV
+V = all vowels and dipthongs
+I = consonants - (ng, ch, gh)
+T = consonants - (h, j, r, w, wh)
+
+Letters generally reserved for inflectionary purposes:
+
+h, y
 
 # Affixes
 
 ## Noun Marking
 
 1. Plural: default singular + (zero, some, many, most, all)
+    1. *mora* - a mountain
+    2. *morasy* - no mountain, zero mountains
+    3. *morarn* - some mountains
+    4. *moranii* - many mountains
+    5. *moralewii* - most mountains
+    6. *moradha* - all mountains
 2. Morphosyntactic: default patientive + (agentive, receptive (He gave a book *to me*), benefactive, causative)
+    1. *morajii* - mountain (agent), *morajisy* - no mountain (agent)
+    2. *moracho* - to a mountain, *morachusy* - to no mountain
+    3. *moraweii* - for a mountain, *morawesy* - for no mountain
+    3. *jaemora* - a mountain caused, *jumora* - no mountain caused, *jaelorlu* - a hill caused
 3. Definiteness: default indefinite + (the, this, that)
+    1. *umora* - the mountain,     *ulorlu* - the hill
+    2. *simora* - this mountain,   *simorarn* - these mountains,   *silorlu* - this hill
+    3. *vomora* - that mountain,   *vomorarn* - those mountains,   *volorlu* - that hill
+
+Structure: (definite) + root + (morphosyntactic) + (plural)
 
 Benefactive: action was done to help someone, or action was done on someone's behalf
 Receptive: all other indirect objects
