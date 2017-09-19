@@ -5,10 +5,10 @@ Categories
 
 -- Bastardized use of macrons, I apologize, but they fit better with my aesthetic than accents.
 
-@onset   = m, n, s, z, sh, zh, th, dh, h, j, l, r, f, v, ll, lh, w, wh
+@onset   = m, n, s, z, sh, zh, th, dh, h, j, l, r, f, v, ll, lh, w
 @final   = m, n, ng, c, g, s, z, sh, zh, th, dh, l, f, v, ll, lh
 @mono    = ā, ī, ū, y, i, a, e, u, o
-@rcolor  = ār, ūr, yr, er, ir, ur, or
+@rcolor  = ār, ūr, er, yr, ur, or
 @dipth   = āī, eī, oī, ao, eū
 
 Structures

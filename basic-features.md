@@ -89,37 +89,39 @@ o-ii
 R-colored vowels followed by another vowel are not permissible, or always analyzed as (C)VrV
 
 V = all vowels and dipthongs
-I = consonants - (ng, ch, gh)
+I = consonants - (ng, ch, gh, wh)
 T = consonants - (h, j, r, w, wh)
 
-Letters generally reserved for inflectionary purposes:
-
-h, y
+'wh' is reserved for inflectionary purposes.
 
 # Affixes
 
 ## Noun Marking
 
+Noun stems never end in an r-colored vowel.
+
 1. Plural: default singular + (zero, some, many, most, all)
-    1. *mora* - a mountain
-    2. *morasy* - no mountain, zero mountains
-    3. *morarn* - some mountains
-    4. *moranii* - many mountains
-    5. *moralewii* - most mountains
-    6. *moradha* - all mountains
+    1. singular = unmarked
+    2. zero = *-o/-jo*
+    3. some = *-ī/-jī*
+    4. many = *-ing/-jing*
+    5. most = *-ir/-jir*
+    6. all = *-adhu/-jadhu*
 2. Morphosyntactic: default patientive + (agentive, receptive (He gave a book *to me*), benefactive, causative)
-    1. *morajii* - mountain (agent), *morajisy* - no mountain (agent)
-    2. *moracho* - to a mountain, *morachusy* - to no mountain
-    3. *moraweii* - for a mountain, *morawesy* - for no mountain
-    3. *jaemora* - a mountain caused, *jumora* - no mountain caused, *jaelorlu* - a hill caused
+    1. patientive = unmarked
+    2. agentive = *-eī,-heī*
+    3. receptive = *-ul,-l*
+    4. benefactive = *-nū*
+    5. causative = *-vāī,-fāī*    (must match the voicedness of the consonant preceding, otherwise *-vāī*)
 3. Definiteness: default indefinite + (the, this, that)
-    1. *umora* - the mountain,     *ulorlu* - the hill
-    2. *simora* - this mountain,   *simorarn* - these mountains,   *silorlu* - this hill
-    3. *vomora* - that mountain,   *vomorarn* - those mountains,   *volorlu* - that hill
+    1. a = unmarked
+    2. the = *u-,uwh-*
+    3. this = *ny-,nywh-*
+    4. that = *vā-,vāwh-*
 
 Structure: (definite) + root + (morphosyntactic) + (plural)
 
-Benefactive: action was done to help someone, or action was done on someone's behalf
+Benefactive: action was done with someone in mind, for someone's benefit, or on someone's behalf
 Receptive: all other indirect objects
 
 ### Subclass: Mountain/Peak/Hill/Butte/Other elevated geographical features related to hiking and climbing
@@ -163,7 +165,7 @@ A participle can be formed with the essive preposition + gerund
 
 ## Adjective Marking
 
-1. Comparative: default no-comparison + (least cool, less cool, more cool, most cool, as cool as, more cool than, less cool than)
+1. Comparative: default no-comparison + (least cool, less cool, more cool, most cool, as cool as, more cool than, less cool than, -ish)
 
 ## Adverb Marking
 
@@ -171,11 +173,14 @@ A participle can be formed with the essive preposition + gerund
 
 # Derivational Morphology
 
-## Verbs
-
-1. Control/volition: addition & removal (idempotent)
-2. Performed/effected/initiated: addition & removal (idempotent)
-3. Frequentative
+1. Adjective -> Noun : "strong" -> "strength", names the quality
+2. Verb -> Noun, Adjective -> Noun : "climb" -> "climber", "evil" -> "enemy", performs the act, subject has the quality
+3. Verb -> Noun : "go" -> "departure", an instance of the act
+4. Noun -> Noun : "mountain" -> "mountain range", pluralization
+5. Noun -> Noun : "rock" -> "boulder", augmentative
+6. Noun -> Noun : "rock" -> "pebble", diminutive
+7. Verb -> Noun : "cut" -> "saw", tool used to speed up or perform an act
+8. Noun -> Adjective, Verb -> Adjective : "water" -> "wet", "fall" -> "unstable", having the quality of, liable to
 
 # Information carried on words
 
