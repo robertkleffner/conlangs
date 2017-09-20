@@ -5,33 +5,29 @@ Categories
 
 -- Bastardized use of macrons, I apologize, but they fit better with my aesthetic than accents.
 
-@onset   = m, n, s, z, sh, zh, th, dh, h, j, l, r, f, v, ll, lh, w
-@final   = m, n, ng, c, g, s, z, sh, zh, th, dh, l, f, v, ll, lh
-@mono    = ā, ī, ū, y, i, a, e, u, o
-@rcolor  = ār, ūr, er, yr, ur, or
-@dipth   = āī, eī, oī, ao, eū
+@onset   = m, n, s, z, sh, zh, th, dh, h, j, r, f, v, w, wh
+@final   = m, n, ng, c, g, s, z, sh, zh, th, dh, f, v
+@mono    = a, i, ī, ū, y, e, u, o
+@rcolor  = īr, ar, ūr, er, yr, ur, or
+@dipth   = aī, eī, oī, ao, eū
 
 Structures
 ----------
 
 1. @mono
-2. @rcolor
-3. @dipth
-4. @onset @mono             = 25%
-5. @onset @mono @final      = 15%
-6. @onset @rcolor           = 11%
-7. @onset @rcolor @final    = 11%
-8. @onset @dipth            = 8%
-9. @onset @dipth @final     = 8%
+2. @dipth
+3. @onset @mono             = 30%
+4. @onset @mono @final      = 20%
+5. @onset @dipth            = 10%
+6. @onset @dipth @final     = 10%
 
 Rules
 -----
 
-ī, āī never-followed-by i, a
-ā never-followed-by ū
+a never-followed-by ū
 a never-followed-by u
 ao never-followed-by o
-lh only-starts-word
+wh never-starts-word
 
 Generate
 --------

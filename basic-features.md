@@ -52,35 +52,35 @@ sh - zh
 th - dh
 h
 j
-l
-r (flapped when not preceded by a r-colored vowel)
+l (only inflectionary)
+r (flapped)
+ll (only in sandhi)
+rr (only in sandhi)
 f - v
-ll - lh
 w - wh
 
 ## Vowels
 
-16 total
-
-ii (= ee)
-i (= ih) (+ r) (here)
+ii (= ee) (+r) (here)
 y (= French y) (+ r) (yeah...)
 a (= ah) (+ r)  (arrr, matey)
-ae (= aa)
 e (= eh) (+ r) (where)
 u (= uh) (+ r) (durr)
 o (= oh without rounding) (+ r) (more)
 oo (= ooo) (+ r) (sewer)
-
-Some vowels have an 'r-colored' variant.
+i
 
 ## Dipthongs
 
 e-ii
 a-ii
-o-oo (heavier than General American English)
+e-oo
 a-oo
 o-ii
+
+## Coloration
+
+All vowels monophthongs have an r-colored and l-colored variant, except for *i*, which only has an l-colored variant.
 
 ## Syllable construction
 
@@ -89,62 +89,68 @@ o-ii
 R-colored vowels followed by another vowel are not permissible, or always analyzed as (C)VrV
 
 V = all vowels and dipthongs
-I = consonants - (ng, ch, gh, wh)
-T = consonants - (h, j, r, w, wh)
+I = consonants - (ng, ch, gh, l)
+T = consonants - (h, j, r, w, wh, l)
 
-'wh' is reserved for inflectionary purposes.
+R-colored and l-colored vowels are **only** used for inflectionary purposes.
+The consonant *l* and the vowel *i* are **only** used for inflectionary purposes.
+Roots never begin with *wh*.
 
 # Affixes
 
+All noun roots end in a vowel, which specifies the class. Nouns roots also must have at least 2 syllables, except for the special words for *peak*, *butte*, and *hill*.
+
 ## Noun Marking
 
-Noun stems never end in an r-colored vowel.
-
-1. Plural: default singular + (zero, some, many, most, all)
+1. Plural (type affix): default singular + (zero, some, many, most, all)
     1. singular = unmarked
-    2. zero = *-o/-jo*
-    3. some = *-ī/-jī*
-    4. many = *-ing/-jing*
-    5. most = *-ir/-jir*
-    6. all = *-adhu/-jadhu*
-2. Morphosyntactic: default patientive + (agentive, receptive (He gave a book *to me*), benefactive, causative)
+    2. zero = *-meng*
+    3. some = *-mī*
+    4. many = *-mo*
+    5. most = *-ma*
+    6. all = *-mū*
+2. Morphosyntactic (type infix): default patientive + (agentive, receptive (He gave a book *to me*), benefactive, causative)
     1. patientive = unmarked
-    2. agentive = *-eī,-heī*
-    3. receptive = *-ul,-l*
-    4. benefactive = *-nū*
-    5. causative = *-vāī,-fāī*    (must match the voicedness of the consonant preceding, otherwise *-vāī*)
-3. Definiteness: default indefinite + (the, this, that)
+    2. agentive = final vowel colored *r*
+    3. receptive = final vowel colored *l*
+    4. benefactive = first vowel of root + final vowel colored *l*
+    5. causative = first vowel of root + final vowel colored *r*
+3. Definiteness (type prefix): default indefinite + (the, this, that)
     1. a = unmarked
-    2. the = *u-,uwh-*
-    3. this = *ny-,nywh-*
-    4. that = *vā-,vāwh-*
-
-Structure: (definite) + root + (morphosyntactic) + (plural)
+    2. the = *lu-,l-*
+    3. this = *ly-,lywh-*
+    4. that = *lo-,lowh-*
 
 Benefactive: action was done with someone in mind, for someone's benefit, or on someone's behalf
 Receptive: all other indirect objects
 
 ### Subclass: Mountain/Peak/Hill/Butte/Other elevated geographical features related to hiking and climbing
 
-Based on the Glacier Mountaineering Society 'Climb Classification System'.
+These suffixes occur before the pluralizers. The order they occur in is as enumerated.
 
-1. Average rating: default class 1 + (classes 2 - 6)
-2. Maximum rating: default class 1 + (classes 2 - 6)
-3. Round trip distance: default short + (medium, long)
-4. Elevation gain: default short + (medium, long)
-5. Route type: default ridge + (face, slope, couloir)
-6. Approach direction: default unspecified + (north, south, east, west)
-7. Traverse
-8. Snow and/or ice climb
+1. Estimated technicality (mandatory): easy, medium, hard = *-līl*, *-lol*, *-laīl*
+2. Estimated arduousness (mandatory): easy, medium, hard = *-vī*, *-vo*, *-vaī*
+3. Coolness/beauty factor (mandatory): lame, decent, cool dude = *-cī*, *-co*, *-caī*
+4. Need ropes (optional) = *-thu*
+5. Need snow/ice gear (optional) = *-wig*
 
 ## Pronoun Marking
 
 1. Plural: default singular + (zero, some, many, most, all)
 2. Morphosyntactic: default patientive + (agentive, receptive, benefactive, causative)
 
+Same as noun marking because I'm a bore
+
 Pronouns vary in the root by:
-1. Person
-2. Sex (he, she, non-specified)
+1. Person (1st, 2nd, 3rd)
+2. Sex in the 3rd (he, she, mix, inan)
+
+*caī* = 'I'             *caīmeng* = 'none of us'        *carīmeng* = 'none of us (agt.)'
+*dhī* = 'you'           *dhīmeng* = 'none of you'       *dhīrmeng* = 'none of you (agt.)'
+*zhe* = 'he'            *zhemeng* = 'none of them'      *zhermeng* = 'none of them (agt.)'
+*ije* = 'she'           *ijemeng* = 'none of them'      *ijermeng* = 'none of them (agt.)'
+*zao* = 'mix'           *zaomeng* = 'none of them'      *zaromeng* = 'none of them (agt.)'
+*ane* = nonspecified    *anemeng* = 'none of them'      *arnemeng* = 'none of them (agt.)'
 
 ## Verb Marking
 
@@ -165,6 +171,8 @@ A participle can be formed with the essive preposition + gerund
 
 ## Adjective Marking
 
+Adjectives agree in the final vowel with their noun.
+
 1. Comparative: default no-comparison + (least cool, less cool, more cool, most cool, as cool as, more cool than, less cool than, -ish)
 
 ## Adverb Marking
@@ -176,7 +184,7 @@ A participle can be formed with the essive preposition + gerund
 1. Adjective -> Noun : "strong" -> "strength", names the quality
 2. Verb -> Noun, Adjective -> Noun : "climb" -> "climber", "evil" -> "enemy", performs the act, subject has the quality
 3. Verb -> Noun : "go" -> "departure", an instance of the act
-4. Noun -> Noun : "mountain" -> "mountain range", pluralization
+4. Noun -> Noun : "mountain" -> "mountain range", grouping and singularizing
 5. Noun -> Noun : "rock" -> "boulder", augmentative
 6. Noun -> Noun : "rock" -> "pebble", diminutive
 7. Verb -> Noun : "cut" -> "saw", tool used to speed up or perform an act

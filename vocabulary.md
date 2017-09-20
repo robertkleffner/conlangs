@@ -1,6 +1,3 @@
-*mora* - peak
-*llooja* - butte
-*orl* - hill
-*chaii* - summit, pinnacle
-*syngu* - zero
-*angu* - one
+*shaī* - peak
+*sho* - butte
+*shī* - hill
