@@ -53,7 +53,7 @@ th - dh
 h
 j
 l (only inflectionary)
-r (flapped)
+t (flapped 'r' sound)
 ll (only in sandhi)
 rr (only in sandhi)
 f - v
@@ -95,6 +95,12 @@ T = consonants - (h, j, r, w, wh, l)
 R-colored and l-colored vowels are **only** used for inflectionary purposes.
 The consonant *l* and the vowel *i* are **only** used for inflectionary purposes.
 Roots never begin with *wh*.
+
+## Sandhi
+
+*-rt-* ==> *-rr-* rolled
+*-lt-* ==> *-lh-* Welsh 'll'
+*-ll-* ==> *-llh-* voiced Welsh 'll'
 
 # Affixes
 
@@ -150,30 +156,37 @@ Pronouns vary in the root by:
 *zhe* = 'he'            *zhemeng* = 'none of them'      *zhermeng* = 'none of them (agt.)'
 *ije* = 'she'           *ijemeng* = 'none of them'      *ijermeng* = 'none of them (agt.)'
 *zao* = 'mix'           *zaomeng* = 'none of them'      *zaromeng* = 'none of them (agt.)'
-*ane* = nonspecified    *anemeng* = 'none of them'      *arnemeng* = 'none of them (agt.)'
+*ate* = nonspecified    *atemeng* = 'none of them'      *arremeng* = 'none of them (agt.)'
 
 ## Verb Marking
 
+All verb stems have at least 2 consonants except for the copula *soīvu*.
+
 1. Evidentiality: default witness + (inferential, hearsay, quotative, participatory, faith)
 2. Primary aspect: default stative + (perfective, habitual, progressive)
-3. Secondary aspects: default none + (inchoative, cessative) + (frequentative (only active)) + (durative) + (simultaneous)
+3. Secondary aspects: default none + (inchoative, continuative, cessative) + (frequentative (only active))
 4. Mood: default indicative + (interrogative, imperative, jussive, permissive, conditional, desiderative, optative)
-5. Voice: default standard + (reflexive, reciprocal)
 
 Note: evidentiality should only be used with realis moods (e.g. indicative)
 
 ### Non-finite Forms
 
-1. Infinitive
-2. Gerund
+Each verb can be classified with it's gerund form according to three types.
 
-A participle can be formed with the essive preposition + gerund
+2. Gerund
+    1. type 1 = *-eīvu*
+    2. type 2 = *-aīvu*
+    3. type 3 = *-oīvu*
+
+A present participle can be formed with the pertingent preposition + gerund
+A past participle can be formed with the subessive preposition + gerund
+A future participle can be formed with the superessive preposition + gerund
+An infinitive can be formed with the inessive preposition + gerund
 
 ## Adjective Marking
 
-Adjectives agree in the final vowel with their noun.
-
 1. Comparative: default no-comparison + (least cool, less cool, more cool, most cool, as cool as, more cool than, less cool than, -ish)
+    1. -ish = *-ly*
 
 ## Adverb Marking
 
@@ -189,6 +202,8 @@ Adjectives agree in the final vowel with their noun.
 6. Noun -> Noun : "rock" -> "pebble", diminutive
 7. Verb -> Noun : "cut" -> "saw", tool used to speed up or perform an act
 8. Noun -> Adjective, Verb -> Adjective : "water" -> "wet", "fall" -> "unstable", having the quality of, liable to
+9. Adjective + Noun -> Noun : "high" + "peak" -> "pinnacle", applies the modifier to the noun and makes a word out of it
+                                                            generally used with (noun -> adjectives) with *-ly*, i.e. (oniony-man = ogre)
 
 # Information carried on words
 
@@ -240,7 +255,7 @@ Each verb has
 3. Possessive (alienable)
 4. Ornative - equipped with
 5. Privative - without
-6. Semblative - like,esque
+6. Semblative - like,esque = *ly*
 7. Partitive - (some number) of the (group of items)
 
 # Expressing Tense
