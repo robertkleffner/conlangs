@@ -5,7 +5,7 @@ Categories
 
 -- Bastardized use of macrons, I apologize, but they fit better with my aesthetic than accents.
 
-@onset   = m, n, s, z, sh, zh, th, dh, h, j, r, f, v, w, wh
+@onset   = m, n, s, z, sh, zh, th, dh, h, j, r, f, v, w, wh, l
 @final   = m, n, ng, c, g, s, z, sh, zh, th, dh, f, v
 @mono    = a, i, ī, ū, y, e, u, o
 @rcolor  = īr, ar, ūr, er, yr, ur, or

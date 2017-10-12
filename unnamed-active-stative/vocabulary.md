@@ -1,4 +1,4 @@
 *shaī* - peak
-*sho* - butte
-*shī* - hill
+*tho* - butte
+*hī* - hill
 *soīvu* - to be

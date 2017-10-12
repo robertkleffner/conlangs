@@ -1,9 +1,8 @@
 # Basic desires for the language
 
-1. Split-S active-stative alignment
-2. Purely 'fluid' consonant inventory (e.g. no stops)
+1. Fluid-S active-stative alignment with active being default in intransitive, patientive used to specify voltion/effects
+2. Purely 'fricafluid' consonant inventory (e.g. no stops)
 3. Verbs heavily agglutinative, but nouns only lightly
-    1. Affix for specifying how the speaker feels about the sentence, with a standalone form
 4. Heavy reliance on spatial prepositions
 5. Generally AVP word order (agent-verb-patient) in basic prose
 6. Avalent verbs are frowned upon, e.g. don't say *It rains* but rather *The rain falls*
@@ -53,8 +52,8 @@ th - dh
 h
 j
 l (only inflectionary)
-t (flapped 'r' sound)
-ll (only in sandhi)
+r/t (flapped 'r' sound between vowels, liquid after consonant)
+l (only in sandhi and at the start of roots)
 rr (only in sandhi)
 f - v
 w - wh
@@ -65,7 +64,7 @@ ii (= ee) (+r) (here)
 y (= French y) (+ r) (yeah...)
 a (= ah) (+ r)  (arrr, matey)
 e (= eh) (+ r) (where)
-u (= uh) (+ r) (durr)
+u (= however Paul Hollywood says the 'o' in 'sponge') (+ r)
 o (= oh without rounding) (+ r) (more)
 oo (= ooo) (+ r) (sewer)
 i
@@ -80,7 +79,7 @@ o-ii
 
 ## Coloration
 
-All vowels monophthongs have an r-colored and l-colored variant, except for *i*, which only has an l-colored variant.
+All vowels monophthongs have an r-colored and l-colored variant, except for *i*.
 
 ## Syllable construction
 
@@ -89,22 +88,22 @@ All vowels monophthongs have an r-colored and l-colored variant, except for *i*,
 R-colored vowels followed by another vowel are not permissible, or always analyzed as (C)VrV
 
 V = all vowels and dipthongs
-I = consonants - (ng, ch, gh, l)
+I = consonants - (ng, ch, gh)
 T = consonants - (h, j, r, w, wh, l)
 
 R-colored and l-colored vowels are **only** used for inflectionary purposes.
-The consonant *l* and the vowel *i* are **only** used for inflectionary purposes.
+The vowel *i* cannot appear in roots anywhere where it might become an r- or l-colored vowel.
 Roots never begin with *wh*.
 
-## Sandhi
+## Slides
 
 *-rt-* ==> *-rr-* rolled
-*-lt-* ==> *-lh-* Welsh 'll'
-*-ll-* ==> *-llh-* voiced Welsh 'll'
+*-lt-* ==> *-lr-* the r is not tapped, but rather liquid
+*-ll-* ==> *-ll-* Welsh 'll'
 
 # Affixes
 
-All noun roots end in a vowel, which specifies the class. Nouns roots also must have at least 2 syllables, except for the special words for *peak*, *butte*, and *hill*.
+All noun roots end in a vowel, which specifies the class. Nouns roots also must have at least 2 syllables, except for the special words for *peak*, *butte*, and *hill*. These are marked the same way as 
 
 ## Noun Marking
 
@@ -117,15 +116,16 @@ All noun roots end in a vowel, which specifies the class. Nouns roots also must 
     6. all = *-mū*
 2. Morphosyntactic (type infix): default patientive + (agentive, receptive (He gave a book *to me*), benefactive, causative)
     1. patientive = unmarked
-    2. agentive = final vowel colored *r*
-    3. receptive = final vowel colored *l*
-    4. benefactive = first vowel of root + final vowel colored *l*
-    5. causative = first vowel of root + final vowel colored *r*
+    2. agentive = final root vowel colored *r*
+    3. receptive = final root vowel colored *l*
+    4. benefactive = end of first root vowel sequence + final root vowel colored *l*
+    5. causative = end of first root vowel sequence + final root vowel colored *r*
 3. Definiteness (type prefix): default indefinite + (the, this, that)
     1. a = unmarked
-    2. the = *lu-,l-*
-    3. this = *ly-,lywh-*
+    2. the = *whu-,wh-*
+    3. this = *li-,liwh-*
     4. that = *lo-,lowh-*
+    5. which/what = *whil-*
 
 Benefactive: action was done with someone in mind, for someone's benefit, or on someone's behalf
 Receptive: all other indirect objects
@@ -134,8 +134,8 @@ Receptive: all other indirect objects
 
 These suffixes occur before the pluralizers. The order they occur in is as enumerated.
 
-1. Estimated technicality (mandatory): easy, medium, hard = *-līl*, *-lol*, *-laīl*
-2. Estimated arduousness (mandatory): easy, medium, hard = *-vī*, *-vo*, *-vaī*
+1. Estimated technicality (mandatory): easy, medium, hard = *-vī*, *-vo*, *-vaī*
+2. Estimated arduousness (mandatory): easy, medium, hard = *-jī*, *-jo*, *-jaī*
 3. Coolness/beauty factor (mandatory): lame, decent, cool dude = *-cī*, *-co*, *-caī*
 4. Need ropes (optional) = *-thu*
 5. Need snow/ice gear (optional) = *-wig*
@@ -145,27 +145,52 @@ These suffixes occur before the pluralizers. The order they occur in is as enume
 1. Plural: default singular + (zero, some, many, most, all)
 2. Morphosyntactic: default patientive + (agentive, receptive, benefactive, causative)
 
-Same as noun marking because I'm a bore
+Marking is the same as nouns except for the benefactive and causative.
+
+1. Benefactive = *-lu-*
+2. Causative = *-tu-*
 
 Pronouns vary in the root by:
 1. Person (1st, 2nd, 3rd)
 2. Sex in the 3rd (he, she, mix, inan)
 
-*caī* = 'I'             *caīmeng* = 'none of us'        *carīmeng* = 'none of us (agt.)'
+*caī* = 'I'             *caīmeng* = 'none of us'        *caīrmeng* = 'none of us (agt.)'
 *dhī* = 'you'           *dhīmeng* = 'none of you'       *dhīrmeng* = 'none of you (agt.)'
 *zhe* = 'he'            *zhemeng* = 'none of them'      *zhermeng* = 'none of them (agt.)'
 *ije* = 'she'           *ijemeng* = 'none of them'      *ijermeng* = 'none of them (agt.)'
-*zao* = 'mix'           *zaomeng* = 'none of them'      *zaromeng* = 'none of them (agt.)'
-*ate* = nonspecified    *atemeng* = 'none of them'      *arremeng* = 'none of them (agt.)'
+*zao* = 'mix'           *zaomeng* = 'none of them'      *zaormeng* = 'none of them (agt.)'
+*ate* = nonspecified    *atemeng* = 'none of them'      *atermeng* = 'none of them (agt.)'
+
+## Interrogative Words
+
+*wha* = 'where'
+*whal* = 'why'
+*whī* = 'what'
+*who* = 'who/which'
+*whao* = 'when'
+*whar* = 'how'
+
+*whī* and *who* follow the marking for pronouns.
 
 ## Verb Marking
 
-All verb stems have at least 2 consonants except for the copula *soīvu*.
+All verb stems have at least 2 consonants except for the copula *soīvu*. There are three types of verb: *e*, *a*, and *o*.
 
-1. Evidentiality: default witness + (inferential, hearsay, quotative, participatory, faith)
+1. Evidentiality: default witness/participatory + (inferential, hearsay, authoritative/quotative, faith)
+    1. inferential = *-l*
+    2. hearsay = *-r*
+    3. authoritative/quotative =
+    4. faith =
 2. Primary aspect: default stative + (perfective, habitual, progressive)
 3. Secondary aspects: default none + (inchoative, continuative, cessative) + (frequentative (only active))
-4. Mood: default indicative + (interrogative, imperative, jussive, permissive, conditional, desiderative, optative)
+4. Moods:
+    1. indicative = *-e/-a/-o/*
+    2. imperative (jussive with agent) = *-erhī/-arhī/-orhī*
+    3. permissive "may" = *-ezze/-azza/-ozzo*
+    4. conditional "would" =
+    5. desiderative "want" =
+    6. abilitive "can" =
+    7. tentative "might" =
 
 Note: evidentiality should only be used with realis moods (e.g. indicative)
 
@@ -183,27 +208,31 @@ A past participle can be formed with the subessive preposition + gerund
 A future participle can be formed with the superessive preposition + gerund
 An infinitive can be formed with the inessive preposition + gerund
 
-## Adjective Marking
+## Adjective/Adverb Marking
+
+All adjectives end in a non-nasal consonant.
+All adverbs end in a nasal consonant.
 
 1. Comparative: default no-comparison + (least cool, less cool, more cool, most cool, as cool as, more cool than, less cool than, -ish)
     1. -ish = *-ly*
-
-## Adverb Marking
-
-1. Comparative: default no-comparison + (less often, more often)
+    2. less = l-colored final vowel
+    3. more = r-colored final vowel
+    4. least = l-colored final vowel + *-ishī*
+    5. most = r-colored final vowel + *-oshī*
+    6. as ... as = *-aoth*
+    7. less ... than = l-colored final vowel + *-idhī*
+    8. more ... than = r-colored final vowel + *-odhī*
 
 # Derivational Morphology
 
-1. Adjective -> Noun : "strong" -> "strength", names the quality
-2. Verb -> Noun, Adjective -> Noun : "climb" -> "climber", "evil" -> "enemy", performs the act, subject has the quality
-3. Verb -> Noun : "go" -> "departure", an instance of the act
-4. Noun -> Noun : "mountain" -> "mountain range", grouping and singularizing
-5. Noun -> Noun : "rock" -> "boulder", augmentative
-6. Noun -> Noun : "rock" -> "pebble", diminutive
-7. Verb -> Noun : "cut" -> "saw", tool used to speed up or perform an act
-8. Noun -> Adjective, Verb -> Adjective : "water" -> "wet", "fall" -> "unstable", having the quality of, liable to
-9. Adjective + Noun -> Noun : "high" + "peak" -> "pinnacle", applies the modifier to the noun and makes a word out of it
-                                                            generally used with (noun -> adjectives) with *-ly*, i.e. (oniony-man = ogre)
+1. Adjective -> Noun : "strong" -> "strength", names the quality = *-ummeī*
+2. Verb -> Noun : "climb" -> "climber", subject performs the act = *-emra/-amra/-omra*
+3. Adjective -> Noun : "evil" -> "enemy", subject has the quality = *-emra/-amra/-omra*
+4. Noun -> Noun : "rock" -> "boulder", augmentative = *-ro*
+5. Noun -> Noun : "rock" -> "pebble", diminutive = *-lī*
+6. Verb -> Noun : "cut" -> "saw", tool used to speed up or assist in an act = *-ethra/-athra/-othra*
+7. Noun -> Adjective : "water" -> "wet", having the quality of = *-lyth*
+8. Verb -> Adjective : "fall" -> "unstable", liable to = *-efen/-afen/-ofen*
 
 # Information carried on words
 
@@ -239,7 +268,7 @@ Each verb has
 8. Terminative - up to,as far as
 9. Perlative - through,along
 10. Vialis - by way of, via
-11. Essive - as a
+11. Essive - as a/the
 12. Exessive - from (a state)
 13. Translative - becoming
 
@@ -255,9 +284,9 @@ Each verb has
 3. Possessive (alienable)
 4. Ornative - equipped with
 5. Privative - without
-6. Semblative - like,esque = *ly*
+6. Semblative - like,esque = *lyg*
 7. Partitive - (some number) of the (group of items)
 
 # Expressing Tense
 
-Sometimes it is clear from the context which tense is meant. Sometimes a specific or relative time is referenced. For the rest of the cases, there are three short words that can be used to specify tense. These short words can also be used to form a copula.
+Sometimes it is clear from the context which tense is meant. Sometimes a specific or relative time is referenced.
