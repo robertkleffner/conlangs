@@ -1,6 +1,6 @@
 # Basic desires for the language
 
-1. Fluid-S active-stative alignment with active being default in intransitive, patientive used to specify voltion/effects
+1. Split-S active-stative alignment with active being default in intransitive, patientive used to specify voltion/effects
 2. Purely 'fricafluid' consonant inventory (e.g. no stops)
 3. Verbs heavily agglutinative, but nouns only lightly
 4. Heavy reliance on spatial prepositions
@@ -74,7 +74,7 @@ i
 e-ii
 a-ii
 e-oo
-a-oo
+a-o
 o-ii
 
 ## Coloration
@@ -179,20 +179,25 @@ All verb stems have at least 2 consonants except for the copula *soīvu*. There 
 1. Evidentiality: default witness/participatory + (inferential, hearsay, authoritative/quotative, faith)
     1. inferential = *-l*
     2. hearsay = *-r*
-    3. authoritative/quotative =
-    4. faith =
-2. Primary aspect: default stative + (perfective, habitual, progressive)
-3. Secondary aspects: default none + (inchoative, continuative, cessative) + (frequentative (only active))
+    3. authoritative/quotative = *-ng*
+    4. faith = *-g*
+2. Primary aspect: default stative/frequentative + (perfective, progressive)
+    1. perfective = *-shi*
+    2. progressive = *-thi*
+3. Secondary aspects: default none + (inchoative, continuative, cessative)
+    1. inchoative = *-feī*
+    2. continuative = *-neū*
+    3. cessative = *-vao*
 4. Moods:
     1. indicative = *-e/-a/-o/*
-    2. imperative (jussive with agent) = *-erhī/-arhī/-orhī*
+    2. exhortative "should" = *-erhī/-arhī/-orhī*
     3. permissive "may" = *-ezze/-azza/-ozzo*
-    4. conditional "would" =
-    5. desiderative "want" =
-    6. abilitive "can" =
-    7. tentative "might" =
+    4. conditional "would" = *-eī/-aī/-oī*
+    5. desiderative "want" = *-erri/-arri/-orri*
+    6. abilitive "can" = *-enzhe/-anzha/-onzho*
+    7. tentative "might" = *-elle/-alla/-ollo*
 
-Note: evidentiality should only be used with realis moods (e.g. indicative)
+Mood + primary + secondary + evidentiality
 
 ### Non-finite Forms
 
