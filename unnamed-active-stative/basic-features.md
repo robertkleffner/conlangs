@@ -73,9 +73,9 @@ i
 
 e-ii
 a-ii
-e-oo
-a-o
 o-ii
+e-oo
+a-oo
 
 ## Coloration
 
@@ -109,11 +109,11 @@ All noun roots end in a vowel, which specifies the class. Nouns roots also must 
 
 1. Plural (type affix): default singular + (zero, some, many, most, all)
     1. singular = unmarked
-    2. zero = *-meng*
+    2. zero = *-nung*
     3. some = *-mī*
     4. many = *-mo*
     5. most = *-ma*
-    6. all = *-mū*
+    6. all = *-hūng*
 2. Morphosyntactic (type infix): default patientive + (agentive, receptive (He gave a book *to me*), benefactive, causative)
     1. patientive = unmarked
     2. agentive = final root vowel colored *r*
@@ -154,12 +154,12 @@ Pronouns vary in the root by:
 1. Person (1st, 2nd, 3rd)
 2. Sex in the 3rd (he, she, mix, inan)
 
-*caī* = 'I'             *caīmeng* = 'none of us'        *caīrmeng* = 'none of us (agt.)'
-*dhī* = 'you'           *dhīmeng* = 'none of you'       *dhīrmeng* = 'none of you (agt.)'
-*zhe* = 'he'            *zhemeng* = 'none of them'      *zhermeng* = 'none of them (agt.)'
-*ije* = 'she'           *ijemeng* = 'none of them'      *ijermeng* = 'none of them (agt.)'
-*zao* = 'mix'           *zaomeng* = 'none of them'      *zaormeng* = 'none of them (agt.)'
-*ate* = nonspecified    *atemeng* = 'none of them'      *atermeng* = 'none of them (agt.)'
+*caī* = 'I'             *caīnung* = 'none of us'        *caīrnung* = 'none of us (agt.)'
+*dhī* = 'you'           *dhīnung* = 'none of you'       *dhīrnung* = 'none of you (agt.)'
+*zhe* = 'he'            *zhenung* = 'none of them'      *zhernung* = 'none of them (agt.)'
+*ije* = 'she'           *ijenung* = 'none of them'      *ijernung* = 'none of them (agt.)'
+*zao* = 'mix'           *zaonung* = 'none of them'      *zaornung* = 'none of them (agt.)'
+*ate* = nonspecified    *atenung* = 'none of them'      *aternung* = 'none of them (agt.)'
 
 ## Interrogative Words
 
