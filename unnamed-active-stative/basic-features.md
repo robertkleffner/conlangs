@@ -79,7 +79,7 @@ a-oo
 
 ## Coloration
 
-All vowels monophthongs have an r-colored and l-colored variant, except for *i*.
+All vowels monophthongs have an r-colored, l-colored, and nasal-colored variant, except for *i*.
 
 ## Syllable construction
 
@@ -91,9 +91,10 @@ V = all vowels and dipthongs
 I = consonants - (ng, ch, gh)
 T = consonants - (h, j, r, w, wh, l)
 
-R-colored and l-colored vowels are **only** used for inflectionary purposes.
+R-colored, l-colored and nasal-colored vowels are **only** used for inflectionary purposes.
 The vowel *i* cannot appear in roots anywhere where it might become an r- or l-colored vowel.
 Roots never begin with *wh*.
+Nasals can only begin a root, never appear as a part.
 
 ## Slides
 
@@ -107,38 +108,39 @@ All noun roots end in a vowel, which specifies the class. Nouns roots also must 
 
 ## Noun Marking
 
+Noun phonotactic rules:
+1. Second syllable may not start with a nasal
+2. If the first syllable starts with *r* or *l*, the second syllable cannot
+
 1. Plural (type affix): default singular + (zero, some, many, most, all)
     1. singular = unmarked
-    2. zero = *-nung*
-    3. some = *-mī*
-    4. many = *-mo*
-    5. most = *-ma*
-    6. all = *-hūng*
-2. Morphosyntactic (type infix): default patientive + (agentive, receptive (He gave a book *to me*), benefactive, causative)
+    2. zero = *l-* + final root vowel
+    3. some = *m-* + final root vowel
+    4. many = *n-* + final root vowel
+    5. most = *ng-* + final root vowel
+    6. all = *r-* + final root vowel
+2. Morphosyntactic (type infix): default patientive + (agentive, receptive (He gave a book *to me*), benefactive, causative, instrumental)
     1. patientive = unmarked
-    2. agentive = final root vowel colored *r*
-    3. receptive = final root vowel colored *l*
-    4. benefactive = end of first root vowel sequence + final root vowel colored *l*
-    5. causative = end of first root vowel sequence + final root vowel colored *r*
-3. Definiteness (type prefix): default indefinite + (the, this, that)
-    1. a = unmarked
-    2. the = *whu-,wh-*
-    3. this = *li-,liwh-*
-    4. that = *lo-,lowh-*
-    5. which/what = *whil-*
+    2. agentive = end of first root vowel sequence colored *r*
+    3. receptive = end of first root vowel sequence colored *l*
+    4. benefactive = end of first root vowel sequence colored *m*
+    5. causative = end of first root vowel sequence colored *n*
+    6. instrumental = end of first root vowel sequence colored *ng*
+3. Definiteness (type prefix): default indefinite unspecific + (a (particular), the, this, that)
+    1. a, nonparticular = unmarked
+    2. the = last root vowel colored *r*
+    3. this = last root vowel colored *m*
+    4. that = last root vowel colored *n*
+    5. yon = last root vowel colored *ng*
+    6. which/what = last root vowel colored *l*
 
 Benefactive: action was done with someone in mind, for someone's benefit, or on someone's behalf
 Receptive: all other indirect objects
+Instrumental: using the noun
 
-### Subclass: Mountain/Peak/Hill/Butte/Other elevated geographical features related to hiking and climbing
 
-These suffixes occur before the pluralizers. The order they occur in is as enumerated.
-
-1. Estimated technicality (mandatory): easy, medium, hard = *-vī*, *-vo*, *-vaī*
-2. Estimated arduousness (mandatory): easy, medium, hard = *-jī*, *-jo*, *-jaī*
-3. Coolness/beauty factor (mandatory): lame, decent, cool dude = *-cī*, *-co*, *-caī*
-4. Need ropes (optional) = *-thu*
-5. Need snow/ice gear (optional) = *-wig*
+Quirk: instead of saying "I'm looking for a girl with red hair", having a particular girl in mind, one would
+say, "I'm looking for this girl with red hair".
 
 ## Pronoun Marking
 
@@ -154,12 +156,12 @@ Pronouns vary in the root by:
 1. Person (1st, 2nd, 3rd)
 2. Sex in the 3rd (he, she, mix, inan)
 
-*caī* = 'I'             *caīnung* = 'none of us'        *caīrnung* = 'none of us (agt.)'
-*dhī* = 'you'           *dhīnung* = 'none of you'       *dhīrnung* = 'none of you (agt.)'
-*zhe* = 'he'            *zhenung* = 'none of them'      *zhernung* = 'none of them (agt.)'
-*ije* = 'she'           *ijenung* = 'none of them'      *ijernung* = 'none of them (agt.)'
-*zao* = 'mix'           *zaonung* = 'none of them'      *zaornung* = 'none of them (agt.)'
-*ate* = nonspecified    *atenung* = 'none of them'      *aternung* = 'none of them (agt.)'
+*caī* = 'I'             *caīnun* = 'none of us'        *caīrnun* = 'none of us (agt.)'
+*dhī* = 'you'           *dhīnun* = 'none of you'       *dhīrnun* = 'none of you (agt.)'
+*zhe* = 'he'            *zhenun* = 'none of them'      *zhernun* = 'none of them (agt.)'
+*ije* = 'she'           *ijenun* = 'none of them'      *ijernun* = 'none of them (agt.)'
+*zao* = 'mix'           *zaonun* = 'none of them'      *zaornun* = 'none of them (agt.)'
+*ate* = nonspecified    *atenun* = 'none of them'      *aternun* = 'none of them (agt.)'
 
 ## Interrogative Words
 
@@ -279,8 +281,7 @@ Each verb has
 
 ## Morphosyntactic
 
-1. Instrumental - using
-2. Comitative - with
+1. Comitative - with
 
 ## Other
 
