@@ -89,9 +89,9 @@ All vowels monophthongs have an r-colored, l-colored, and nasal-colored variant,
 
 R-colored vowels followed by another vowel are not permissible, or always analyzed as (C)VrV
 
-V = all vowels and dipthongs
-I = consonants - (ng, ch, gh)
-T = consonants - (h, j, r, w, wh, l)
+- V = all vowels and dipthongs
+- I = consonants - (ng, ch, gh)
+- T = consonants - (h, j, r, w, wh, l)
 
 R-colored, l-colored and nasal-colored vowels are **only** used for inflectionary purposes.
 The vowels *i* and *ae* cannot appear in roots anywhere where they might become an r-, l-, or nasal-colored vowel.
@@ -99,9 +99,9 @@ Nasals can only begin a root, never appear as a part.
 
 ## Slides
 
-*-rt-* ==> *-rr-* rolled
-*-lt-* ==> *-lr-* the r is not tapped, but rather liquid
-*-ll-* ==> *-ll-* Welsh 'll'
+1. *-rt-* ==> *-rr-* rolled
+2. *-lt-* ==> *-lr-* the r is not tapped, but rather liquid
+3. *-ll-* ==> *-ll-* Welsh 'll'
 
 # Affixes
 
@@ -135,11 +135,6 @@ Noun phonotactic rules:
     5. yon = last root vowel colored *ng*
     6. which/what = last root vowel colored *l*
 
-Benefactive: action was done with someone in mind, for someone's benefit, or on someone's behalf
-Receptive: all other indirect objects
-Instrumental: using the noun
-
-
 Quirk: instead of saying "I'm looking for a girl with red hair", having a particular girl in mind, one would
 say, "I'm looking for this girl with red hair".
 
@@ -166,12 +161,12 @@ Pronouns vary in the root by:
 There are not specific interrogative words. Instead, some common ones may be constructed with
 the *which/what* definiteness affix.
 
-where - *which place*
-why - *which reason*
-what - *which thing/item*
-who - *which person*
-when - *which time*
-how - *which process/method/path*
+1. where - *which place*
+2. why - *which reason*
+3. what - *which thing/item*
+4. who - *which person*
+5. when - *which time*
+6. how - *which process/method/path*
 
 ## Verb Marking
 
@@ -211,12 +206,12 @@ Verbs must have either *e*, *a*, or *o* as the final vowel.
 
 There are two non-finite forms: gerund and participle. The gerund form may be inflected like a noun. The participle form may be inflected like an adjective.
 
-Gerund: root + *-j* + final root vowel
-Participle: root + *-h* + final root vowel
+- Gerund: root + *-j* + final root vowel
+- Participle: root + *-h* + final root vowel
 
-A present participle can be formed with the pertingent preposition + gerund
-A past participle can be formed with the subessive preposition + gerund
-A future participle can be formed with the superessive preposition + gerund
+- A present participle can be formed with the pertingent preposition + gerund
+- A past participle can be formed with the subessive preposition + gerund
+- A future participle can be formed with the superessive preposition + gerund
 
 ## Adjective/Adverb Marking
 
@@ -227,7 +222,7 @@ All adjectives and adverbs end in a consonant, and have at least two syllables i
     2. less = l-colored final vowel
     3. more = r-colored final vowel
     4. least = l-colored final vowel + *-ishī*
-    5. most = r-colored final vowel + *-oshī*
+    5. most = r-colored final vowel + *-ishī*
     6. as ... as = *-ae*
     7. less ... than = l-colored final vowel + *-aedhī*
     8. more ... than = r-colored final vowel + *-aedhī*

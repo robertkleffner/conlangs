@@ -5,17 +5,17 @@ Sounds
 
 -- Bastardized use of macrons, I apologize, but they fit better with my aesthetic than accents.
 
-@onset   = m, n, s, z, sh, zh, th, dh, h, j, t, f, v, w, wh, l
-@final   = m, n, ng, c, g, s, z, sh, zh, th, dh, f, v
-@mono    = a, i, ī, ū, y, e, u, o
-@dipth   = aī, eī, oī, ao, eū
+@onset   = m, n, s, z, sh, zh, th, dh, h, j, t, f, v, w, wh, l, c
+@final   = c, g, s, z, sh, zh, th, dh, f, v
+@mono    = a, ā, i, ī, u, ū, y, e, o
+@dipth   = aī, eī, oī, ao, eū, iū
 
 Syllables
 ---------
 
-$vowel        = @mono | @dipth
-$simple : 50% = @onset @mono | @onset @dipth
-$full   : 10% = @onset @mono @final | @onset @dipth @final
+$vowel        = @mono | @dipth = 20%
+$simple : 50% = @onset @mono | @onset @dipth = 20%
+$full   : 30% = @onset @mono @final | @onset @dipth @final = 20%
 
 Rules
 -----
@@ -26,6 +26,10 @@ ao never-followed-by o
 wh never-starts-word
 
 t becomes r after @final
+
+$full never-followed-by $vowel
+$full never-followed-by $simple
+$full never-followed-by $full
 
 Configuration
 -------------
