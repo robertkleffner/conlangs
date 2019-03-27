@@ -4,17 +4,10 @@ Parts = noun, verb, conj
 
 Order = a, s, sh 
 
-> shaī : noun
-    1. peak.
-> tho : noun
-    1. butte.
-> hī : noun
-    1. hill.
-> soīvu : verb
-    1. to be.
-> ar : conj
+> un : conj
     1. or.
 > e : conj
     1. and.
-> īna : conj
+> īv : conj
     1. no, not.
+> 

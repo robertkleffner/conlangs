@@ -53,7 +53,7 @@ h
 j
 l (only inflectionary)
 r/t (flapped 'r' sound between vowels, liquid after consonant)
-l (only in sandhi and at the start of roots)
+ll (only in sandhi and at the start of roots)
 rr (only in sandhi)
 f - v
 w - wh
@@ -94,7 +94,7 @@ R-colored vowels followed by another vowel are not permissible, or always analyz
 - T = consonants - (h, j, r, w, wh, l)
 
 R-colored, l-colored and nasal-colored vowels are **only** used for inflectionary purposes.
-The vowels *i* and *ae* cannot appear in roots anywhere where they might become an r-, l-, or nasal-colored vowel.
+The vowel *i* cannot appear in roots anywhere where they might become an r-, l-, or nasal-colored vowel.
 Nasals can only begin a root, never appear as a part.
 
 ## Slides
@@ -120,28 +120,34 @@ Noun phonotactic rules:
     4. many = *n-* + final root vowel
     5. most = *ng-* + final root vowel
     6. all = *r-* + final root vowel
-2. Morphosyntactic (type infix): default patientive + (agentive, receptive (He gave a book *to me*), benefactive, causative, instrumental)
+2. Morphosyntactic (type infix): default patientive + (agentive, receptive (He gave a book *to me*), authoritative, causative, instrumental)
     1. patientive = unmarked
     2. agentive = end of first root vowel sequence colored *r*
     3. receptive = end of first root vowel sequence colored *l*
-    4. benefactive = end of first root vowel sequence colored *m*
+    4. authoritative = end of first root vowel sequence colored *m*
     5. causative = end of first root vowel sequence colored *n*
-    6. instrumental = end of first root vowel sequence colored *ng*
+    6. instrumental/comitative/vialis = end of first root vowel sequence colored *ng*
 3. Definiteness (type prefix): default indefinite unspecific + (a (particular), the, this, that)
     1. a, nonparticular = unmarked
     2. the = last root vowel colored *r*
     3. this = last root vowel colored *m*
     4. that = last root vowel colored *n*
-    5. yon = last root vowel colored *ng*
+    5. yon = last root vowel colored *ng* (TODO: inflection for mass noun here instead?)
     6. which/what = last root vowel colored *l*
+4. Topological (type suffix): default none + (peak, basin, saddle)
+    1. peak = *-c-* + last root vowel + definiteness reduplicated
+    2. basin = *-s-* + last root vowel + definiteness reduplicated
+    3. saddle = *-v-* + last root vowel + definiteness reduplicated
 
 Quirk: instead of saying "I'm looking for a girl with red hair", having a particular girl in mind, one would
-say, "I'm looking for this girl with red hair".
+say, "I'm looking for this girl with red hair". The indefinite cannot introduce a new, specific noun.
+
+Authoritative = "according to", "he said", used with authoritative/quotative evidentiality
 
 ## Pronoun Marking
 
 1. Plural: default singular + (zero, some, many, most, all)
-2. Morphosyntactic: default patientive + (agentive, receptive, benefactive, causative)
+2. Morphosyntactic: default patientive + (agentive, receptive, authoritative, causative, instrumental)
 
 Marking is the same as nouns, except for pronouns there's no definiteness.
 
@@ -149,12 +155,12 @@ Pronouns vary in the root by:
 1. Person (1st, 2nd, 3rd)
 2. Sex in the 3rd (he, she, mix, inan)
 
-*caī* = 'I'             *caīnun* = 'none of us'        *caīrnun* = 'none of us (agt.)'
-*dhī* = 'you'           *dhīnun* = 'none of you'       *dhīrnun* = 'none of you (agt.)'
-*zhe* = 'he'            *zhenun* = 'none of them'      *zhernun* = 'none of them (agt.)'
-*ije* = 'she'           *ijenun* = 'none of them'      *ijernun* = 'none of them (agt.)'
-*zao* = 'mix'           *zaonun* = 'none of them'      *zaornun* = 'none of them (agt.)'
-*ate* = nonspecified    *atenun* = 'none of them'      *aternun* = 'none of them (agt.)'
+*caī* = 'I'
+*dhī* = 'you'
+*zhe* = 'he'
+*ije* = 'she'
+*zao* = 'mix'
+*ate* = nonspecified
 
 ## Interrogative Words
 
@@ -178,13 +184,13 @@ Verbs come in 3 classes: front, middle, and back. These correspond to the ending
 
 Verbs must have either *e*, *a*, or *o* as the final vowel.
 
-1. Evidentiality: default participatory + (witness, inferential, hearsay, authoritative/quotative, faith)
+1. Evidentiality: (witness, inferential, hearsay, authoritative/quotative, faith)
     1. witness = final root consonant + confidence *-r*
     2. inferential = final root consonant + confidence + *-l*
     3. hearsay = final root consonant + confidence + *-m*
     4. authoritative/quotative = final root consonant + confidence + *-ng*
     5. faith = final root consonant + confidence + *-n*
-2. Confidence: default participatory + (certain, confident, unsure)
+2. Confidence: (certain, confident, unsure)
     1. certain = *-ae-*
     2. confident = *-i-*
     3. unsure = *-y-*
@@ -195,23 +201,29 @@ Verbs must have either *e*, *a*, or *o* as the final vowel.
     2. cessative = final root vowel + *-l-* + primary aspect
 4. Moods:
     1. indicative = default
-    2. exhortative "should" = *-w* + ii-diphthonged final root vowel
-    3. permissive "may" = *-r* + ii-diphthonged final root vowel
-    4. conditional "would" = *-l* + ii-diphthonged final root vowel
-    5. desiderative "want" = *-r* + oo-diphthonged final root vowel
-    6. abilitive "can" = *-l* + oo-diphthonged final root vowel
-    7. tentative "might" = *-w* + oo-diphthonged final root vowel
+    2. exhortative "should" = *wh-* + ii-diphthonged final root vowel
+    3. permissive "may" = *r-* + ii-diphthonged final root vowel
+    4. conditional "would" = *l-* + ii-diphthonged final root vowel
+    5. desiderative "want" = *r-* + oo-diphthonged final root vowel
+    6. abilitive "can" = *l-* + oo-diphthonged final root vowel
+    7. tentative "might" = *wh-* + oo-diphthonged final root vowel
 
 ### Non-finite Forms
 
 There are two non-finite forms: gerund and participle. The gerund form may be inflected like a noun. The participle form may be inflected like an adjective.
 
 - Gerund: root + *-j* + final root vowel
-- Participle: root + *-h* + final root vowel
+- Participle: root + *-h* + final root vowel + *-ng*
 
 - A present participle can be formed with the pertingent preposition + gerund
 - A past participle can be formed with the subessive preposition + gerund
 - A future participle can be formed with the superessive preposition + gerund
+
+### Valence
+
+Because the agentive, patientive, causative, and indirect are all marked separately, the language tends to play fast and loose with
+valence without needing separate morphological markers, constructions, or even words. For instance, the verb sleep can be used in the normal
+English intransitive sense with the patientive ("Sleep me" = I sleep) but also as a transitive verb ("I sleep him" = I put him to sleep)
 
 ## Adjective/Adverb Marking
 
@@ -230,57 +242,49 @@ All adjectives and adverbs end in a consonant, and have at least two syllables i
 # Derivational Morphology
 
 1. Adjective -> Noun : "strong" -> "strength", names the quality = *-aeno*
-2. Verb -> Noun : "climb" -> "climber", subject performs the act = *-rica*
-3. Adjective -> Noun : "evil" -> "enemy", subject has the quality = *-rica*
+2. Verb -> Noun : "climb" -> "climber", subject performs the act = *-iga*
+3. Adjective -> Noun : "evil" -> "enemy", subject has the quality = *-iga*
 4. Noun -> Noun : "rock" -> "boulder", augmentative = *-ro*
 5. Noun -> Noun : "rock" -> "pebble", diminutive = *-lī*
 6. Verb -> Noun : "cut" -> "saw", tool used to speed up or assist in an act = *-ythoo*
 7. Noun -> Noun : "electricity" -> "generator", tool used to produce a noun = *-zhu*
 8. Noun -> Adjective : "water" -> "wet", having the quality of = *-lug*
-9. Verb -> Adjective : "fall" -> "unstable", liable to = *-if*
+9. Verb -> Adjective : "fall" -> "unstable", liable to = *-iv*
 
 # Prepositions
 
 ## Location
 
-1. Adessive - near,at,by
-2. Apudessive - next to,beside
-3. Inessive - inside,within
-4. Intrative - between
-5. Pertingent - on,touching
-6. Subessive - under,below
-7. Superessive - over,above
-8. ??? - among,in the midst of
+1. *sra* - Adessive - near,at,by
+2. *srii* - Inessive - inside,within
+3. *isrii* - Intrative - between (used with non-collective), among (used with collective)
+4. *sro* - Pertingent - on,touching
+5. *zao* - Subessive - under,below
+6. *zai* - Superessive - over,above
 
 ## Motion
 
-1. Ablative - away from
-2. Delative - off of
-3. Elative - out of
-4. Egressive - starting from,beginning from
-5. Allative - to,toward
-6. Illative - into
-7. Sublative - onto
-8. Terminative - up to,as far as
-9. Perlative - through,along
-10. Vialis - by way of, via
-11. Essive - as a/the
-12. Exessive - from (a state)
-13. Translative - becoming
-
-## Morphosyntactic
-
-1. Comitative - with = *hoo*
+1. *um* - Ablative - away from
+2. *aesro* - Delative - off of
+3. *aesrii* - Elative - out of
+4. *aem* - Egressive - starting from,beginning from
+5. *ii* - Allative - to,toward
+6. *ifu* - Illative - into
+7. *iish* - Sublative - onto
+8. *zhe* - Terminative - up to,as far as
+9. *wai* - Perlative - through,along
+10. instrumental - Vialis - by way of, via
+11. *zei* - Essive - as a/the
+12. *zrae* - Exessive - from (a state)
+13. *yn* - Translative - becoming
 
 ## Other
 
-1. Distributive - per
-2. Possessive (inalienable)
-3. Possessive (alienable)
-4. Ornative - equipped with
-5. Privative - without
-6. Semblative - like,esque = *ly*
-7. Partitive - (some number) of the (group of items)
+1. *va* - Distributive - per
+2. *noo* - Possessive
+4. *oos* - equipped with
+5. *lai* - without
+6. *me* - like,esque
 
 # Expressing Tense
 
