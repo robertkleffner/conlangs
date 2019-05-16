@@ -157,10 +157,10 @@ Pronouns vary in the root by:
 
 *caī* = 'I'
 *dhī* = 'you'
-*zhe* = 'he'
-*ije* = 'she'
-*zao* = 'mix'
-*ate* = nonspecified
+*jei* = 'he'
+*ijei* = 'she'
+*noi* = 'mix'
+*onoi* = nonspecified
 
 ## Interrogative Words
 
@@ -188,7 +188,7 @@ Verbs must have either *e*, *a*, or *o* as the final vowel.
     1. witness = final root consonant + confidence *-r*
     2. inferential = final root consonant + confidence + *-l*
     3. hearsay = final root consonant + confidence + *-m*
-    4. authoritative/quotative = final root consonant + confidence + *-ng*
+    4. authoritative/quotative/narrative = final root consonant + confidence + *-ng*
     5. faith = final root consonant + confidence + *-n*
 2. Confidence: (certain, confident, unsure)
     1. certain = *-ae-*
@@ -233,11 +233,11 @@ All adjectives and adverbs end in a consonant, and have at least two syllables i
     1. -ish = *-i*
     2. less = l-colored final vowel
     3. more = r-colored final vowel
-    4. least = l-colored final vowel + *-ishī*
-    5. most = r-colored final vowel + *-ishī*
+    4. least = l-colored final vowel + *-ihī*
+    5. most = r-colored final vowel + *-ihī*
     6. as ... as = *-ae*
-    7. less ... than = l-colored final vowel + *-aedhī*
-    8. more ... than = r-colored final vowel + *-aedhī*
+    7. less ... than = l-colored final vowel + *-ohī*
+    8. more ... than = r-colored final vowel + *-ohī*
 
 # Derivational Morphology
 
@@ -255,18 +255,18 @@ All adjectives and adverbs end in a consonant, and have at least two syllables i
 
 ## Location
 
-1. *sra* - Adessive - near,at,by
-2. *srii* - Inessive - inside,within
-3. *isrii* - Intrative - between (used with non-collective), among (used with collective)
-4. *sro* - Pertingent - on,touching
+1. *sfa* - Adessive - near,at,by
+2. *sfii* - Inessive - inside,within
+3. *isfii* - Intrative - between (used with non-collective), among (used with collective)
+4. *sfo* - Pertingent - on,touching
 5. *zao* - Subessive - under,below
 6. *zai* - Superessive - over,above
 
 ## Motion
 
 1. *um* - Ablative - away from
-2. *aesro* - Delative - off of
-3. *aesrii* - Elative - out of
+2. *aesfo* - Delative - off of
+3. *aesfii* - Elative - out of
 4. *aem* - Egressive - starting from,beginning from
 5. *ii* - Allative - to,toward
 6. *ifu* - Illative - into
@@ -275,16 +275,16 @@ All adjectives and adverbs end in a consonant, and have at least two syllables i
 9. *wai* - Perlative - through,along
 10. instrumental - Vialis - by way of, via
 11. *zei* - Essive - as a/the
-12. *zrae* - Exessive - from (a state)
+12. *zvae* - Exessive - from (a state)
 13. *yn* - Translative - becoming
 
 ## Other
 
-1. *va* - Distributive - per
-2. *noo* - Possessive
-4. *oos* - equipped with
-5. *lai* - without
-6. *me* - like,esque
+1. *fwa* - Distributive - per
+2. *vjoo* - Possessive
+4. *fjoo* - equipped with
+5. *vjai* - without
+6. *he* - like,esque
 
 # Expressing Tense
 
