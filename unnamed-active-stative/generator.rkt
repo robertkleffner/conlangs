@@ -5,8 +5,8 @@ Sounds
 
 -- Bastardized use of macrons, I apologize, but they fit better with my aesthetic than accents.
 
-@onset   = m, n, s, z, sh, zh, th, dh, h, j, t, f, v, w, wh, l, c
-@final   = c, g, s, z, sh, zh, th, dh, f, v
+@onset   = m, n, s, z, sh, ž, th, dh, h, j, t, f, v, w, wh, l, c
+@final   = c, g, s, z, sh, ž, th, dh, f, v
 @mono    = a, ā, i, ī, u, ū, y, e, o
 @dipth   = aī, eī, oī, ao, eū, iū
 

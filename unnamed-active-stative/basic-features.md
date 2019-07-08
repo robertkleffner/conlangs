@@ -45,7 +45,7 @@ Vowels are arbitrary marks and symbols inscribed underneath the consonant that p
 m
 n
 ng
-ch - gh
+c - g
 s - z
 sh - zh
 th - dh
@@ -60,13 +60,13 @@ w - wh
 
 ## Vowels
 
-ii (= ee) (+r) (here)
+ī (= ee) (+r) (here)
 y (= French y) (+ r) (yeah...)
 a (= ah) (+ r)  (arrr, matey)
 e (= eh) (+ r) (where)
 u (= however Paul Hollywood says the 'o' in 'sponge') (+ r)
 o (= oh without rounding) (+ r) (more)
-oo (= ooo) (+ r) (sewer)
+ū (= oo) (+ r) (sewer)
 i
 ae
 
@@ -90,7 +90,7 @@ All vowels monophthongs have an r-colored, l-colored, and nasal-colored variant,
 R-colored vowels followed by another vowel are not permissible, or always analyzed as (C)VrV
 
 - V = all vowels and dipthongs
-- I = consonants - (ng, ch, gh)
+- I = consonants - (ng, c, g)
 - T = consonants - (h, j, r, w, wh, l)
 
 R-colored, l-colored and nasal-colored vowels are **only** used for inflectionary purposes.
@@ -102,6 +102,20 @@ Nasals can only begin a root, never appear as a part.
 1. *-rt-* ==> *-rr-* rolled
 2. *-lt-* ==> *-lr-* the r is not tapped, but rather liquid
 3. *-ll-* ==> *-ll-* Welsh 'll'
+
+## Dialects
+
+There are two primary phonological dialects. The first, 'airy', is the phonology described above, and generally considered more graceful and elegant.
+
+The second, 'rocky', removes the fricativity from several consonants. It is considered workmanlike, but is also sometimes used in situations where greater auditory clarity is needed. The changes are listed below:
+1. *c*: becomes a stop, essentially *k* in English
+2. *g*: becomes a stop, essentially *g* in English
+3. *t*: becomes a stop, essentially *t* in English
+4. *d*: becomes a stop, essentially *d* in English
+5. *f*: becomes a stop, essentially *p* in English
+6. *v*: becomes a stop, essentially *b* in English
+
+There exist variations of dialects in between the two.
 
 # Affixes
 
@@ -118,7 +132,7 @@ Noun phonotactic rules:
     2. zero = *l-* + final root vowel
     3. some = *m-* + final root vowel
     4. many = *n-* + final root vowel
-    5. most = *ng-* + final root vowel
+    5. most = *ŋ-* + final root vowel
     6. all = *r-* + final root vowel
 2. Morphosyntactic (type infix): default patientive + (agentive, receptive (He gave a book *to me*), authoritative, causative, instrumental)
     1. patientive = unmarked
@@ -126,13 +140,14 @@ Noun phonotactic rules:
     3. receptive = end of first root vowel sequence colored *l*
     4. authoritative = end of first root vowel sequence colored *m*
     5. causative = end of first root vowel sequence colored *n*
-    6. instrumental/comitative/vialis = end of first root vowel sequence colored *ng*
+    6. instrumental/comitative/vialis = end of first root vowel sequence colored *ŋ*
 3. Definiteness (type prefix): default indefinite unspecific + (a (particular), the, this, that)
     1. a, nonparticular = unmarked
+        * like English, sometimes indefinite is used for gnomic aspect as well
     2. the = last root vowel colored *r*
     3. this = last root vowel colored *m*
     4. that = last root vowel colored *n*
-    5. yon = last root vowel colored *ng* (TODO: inflection for mass noun here instead?)
+    5. yon = last root vowel colored *ŋ*
     6. which/what = last root vowel colored *l*
 4. Topological (type suffix): default none + (peak, basin, saddle)
     1. peak = *-c-* + last root vowel + definiteness reduplicated
@@ -156,9 +171,9 @@ Pronouns vary in the root by:
 2. Sex in the 3rd (he, she, mix, inan)
 
 *caī* = 'I'
-*dhī* = 'you'
+*dī* = 'you'
 *jei* = 'he'
-*ijei* = 'she'
+*hy* = 'she'
 *noi* = 'mix'
 *onoi* = nonspecified
 
@@ -178,8 +193,8 @@ the *which/what* definiteness affix.
 
 Verbs come in 3 classes: front, middle, and back. These correspond to the ending consonants:
 
-1. Front = *-f*, *-v*, *-th*, *-dh*
-2. Middle = *-s*, *-z*, *-sh*, *-zh*
+1. Front = *-f*, *-v*, *-t*, *-d*
+2. Middle = *-s*, *-z*, *-š*, *-ž*
 3. Back = *-c*, *-g*
 
 Verbs must have either *e*, *a*, or *o* as the final vowel.
@@ -188,36 +203,42 @@ Verbs must have either *e*, *a*, or *o* as the final vowel.
     1. witness = final root consonant + confidence *-r*
     2. inferential = final root consonant + confidence + *-l*
     3. hearsay = final root consonant + confidence + *-m*
-    4. authoritative/quotative/narrative = final root consonant + confidence + *-ng*
+    4. authoritative/quotative/narrative = final root consonant + confidence + *-ŋ*
     5. faith = final root consonant + confidence + *-n*
 2. Confidence: (certain, confident, unsure)
-    1. certain = *-ae-*
-    2. confident = *-i-*
-    3. unsure = *-y-*
+    1. confident = *-ao-*
+    2. unsure = *-oi-*
+    3. skeptical = *-y-*
 2. Primary aspect: default perfective + (imperfective)
-    1. imperfective = final root vowel + complementary nasal (front = *m*, middle = *n*, back = *ng*)
+    1. imperfective = final root vowel + complementary nasal (front = *m*, middle = *n*, back = *ŋ*)
 3. Secondary aspects: default none + (inchoative, cessative)
     1. inchoative = final root vowel + *-r-* + primary aspect
     2. cessative = final root vowel + *-l-* + primary aspect
 4. Moods:
     1. indicative = default
-    2. exhortative "should" = *wh-* + ii-diphthonged final root vowel
-    3. permissive "may" = *r-* + ii-diphthonged final root vowel
-    4. conditional "would" = *l-* + ii-diphthonged final root vowel
-    5. desiderative "want" = *r-* + oo-diphthonged final root vowel
-    6. abilitive "can" = *l-* + oo-diphthonged final root vowel
-    7. tentative "might" = *wh-* + oo-diphthonged final root vowel
+    2. exhortative "should" = *wh-* + ī-diphthonged final root vowel
+    3. permissive "may" = *r-* + ī-diphthonged final root vowel
+    4. conditional "would" = *l-* + ī-diphthonged final root vowel
+    5. desiderative "want" = *r-* + ū-diphthonged final root vowel
+    6. abilitive "can" = *l-* + ū-diphthonged final root vowel
+    7. tentative "might" = *wh-* + ū-diphthonged final root vowel
+    8. gerund = *j-* + ū-diphthonged final root vowel
+
+### Confidence and Evidentiality
+
+The confidence and evidentiality markers allow for a wide amount of information to be conveyed in two simple markers, and they are both mandatory. There are some interesting combinations:
+
+1. Most often, "hearsay" evidentiality should not be used with "confident" confidence, as it may give the listener reason to think the speaker is overly gullible or too trusting of rumors.
+2. Using "witness" evidentiality with "skeptical" confidence will generally indicate a high level of surprise, so that the listener will think the speaker does not trust their own experience.
+3. Be careful with the "faith" evidentiality and "certain" confidence. The combination is most frequently used in day-to-day speech by someone who is tired of arguing but refuses to capitulate.
+4. The "authoritative" evidentiality is heavily used when telling a story that did not happen to the speaker, whether real or fictional. Works of fiction in the first person still make heavier use of "witness" evidentiality in the narration.
 
 ### Non-finite Forms
 
 There are two non-finite forms: gerund and participle. The gerund form may be inflected like a noun. The participle form may be inflected like an adjective.
 
 - Gerund: root + *-j* + final root vowel
-- Participle: root + *-h* + final root vowel + *-ng*
-
-- A present participle can be formed with the pertingent preposition + gerund
-- A past participle can be formed with the subessive preposition + gerund
-- A future participle can be formed with the superessive preposition + gerund
+- Participle: root + *-h* + final root vowel + *-ŋ*
 
 ### Valence
 
@@ -227,37 +248,56 @@ English intransitive sense with the patientive ("Sleep me" = I sleep) but also a
 
 ## Adjective/Adverb Marking
 
-All adjectives and adverbs end in a consonant, and have at least two syllables in the root.
+1. Adjectifying nouns
+    1. *ll-* + noun final root vowel - no comparison
+    2. *ll-* + noun final root vowel + *-hi* - ish
+    3. *ll-* + noun final root vowel + *-l* - less
+    4. *ll-* + noun final root vowel + *-r* - more
+    5. *ll-* + noun final root vowel + *-lihī* - least
+    6. *ll-* + noun final root vowel + *-rihī* - most
+    7. *ll-* + noun final root vowel + *-hae* - as ... as
+    8. *ll-* + noun final root vowel + *-lohī* - less ... than
+    9. *ll-* + noun final root vowel + *-rohī* - more ... than
 
-1. Comparative: default no-comparison + (least cool, less cool, more cool, most cool, as cool as, more cool than, less cool than, -ish)
-    1. -ish = *-i*
-    2. less = l-colored final vowel
-    3. more = r-colored final vowel
-    4. least = l-colored final vowel + *-ihī*
-    5. most = r-colored final vowel + *-ihī*
-    6. as ... as = *-ae*
-    7. less ... than = l-colored final vowel + *-ohī*
-    8. more ... than = r-colored final vowel + *-ohī*
+2. Adverbifying verbs
+    1. *rr-* + verb final root vowel - no comparison
+    2. *rr-* + verb final root vowel + *-hi* - ish
+    3. *rr-* + verb final root vowel + *-l* - less
+    4. *rr-* + verb final root vowel + *-r* - more
+    5. *rr-* + verb final root vowel + *-lihī* - least
+    6. *rr-* + verb final root vowel + *-rihī* - most
+    7. *rr-* + verb final root vowel + *-hae* - as ... as
+    8. *rr-* + verb final root vowel + *-lohī* - less ... than
+    9. *rr-* + verb final root vowel + *-rohī* - more ... than
+
+The soft-spoken thief spoke softly.
+
+Thief-the-AGT  ADJV  GERUND-speak-prim-conf-evid  ADJN  softness  spoke-prim-conf-evid  ADJN  softness
 
 # Derivational Morphology
 
-1. Adjective -> Noun : "strong" -> "strength", names the quality = *-aeno*
-2. Verb -> Noun : "climb" -> "climber", subject performs the act = *-iga*
-3. Adjective -> Noun : "evil" -> "enemy", subject has the quality = *-iga*
+2. Verb -> Noun : "climb" -> "climber", subject performs the act = *-l-* + final root vowel
 4. Noun -> Noun : "rock" -> "boulder", augmentative = *-ro*
 5. Noun -> Noun : "rock" -> "pebble", diminutive = *-lī*
-6. Verb -> Noun : "cut" -> "saw", tool used to speed up or assist in an act = *-ythoo*
-7. Noun -> Noun : "electricity" -> "generator", tool used to produce a noun = *-zhu*
-8. Noun -> Adjective : "water" -> "wet", having the quality of = *-lug*
-9. Verb -> Adjective : "fall" -> "unstable", liable to = *-iv*
+6. Verb -> Noun : "cut" -> "saw", tool used to speed up or assist in an act = *-m-* + final root vowel
+7. Noun -> Noun : "electricity" -> "generator", tool used to produce a noun = *-žu*
+8. Verb -> Noun : "breathe" -> "breath", an instance of the action = *-r-* + final root vowel
+9. Verb -> Verb : "breathe" -> "hyperventilate", the same action intensified = *-n-* + final root vowel + final root consonant
+
+## Compounding
+
+Verb + Vowel-Start Noun: **verb** + *-n-* + **noun**
+Verb + Cons-Start Noun: **verb** + *-n-* + final root vowel + **noun**
+Description Noun + Noun: **noun** + *-ŋ-* + **noun**
+Noun + Verb: **noun** + *-ŋ-* + **verb**
 
 # Prepositions
 
 ## Location
 
-1. *sfa* - Adessive - near,at,by
-2. *sfii* - Inessive - inside,within
-3. *isfii* - Intrative - between (used with non-collective), among (used with collective)
+1. *sfu* - Adessive - near,at,by
+2. *sfī* - Inessive - inside,within
+3. *isfī* - Intrative - between (used with non-collective), among (used with collective)
 4. *sfo* - Pertingent - on,touching
 5. *zao* - Subessive - under,below
 6. *zai* - Superessive - over,above
@@ -266,23 +306,31 @@ All adjectives and adverbs end in a consonant, and have at least two syllables i
 
 1. *um* - Ablative - away from
 2. *aesfo* - Delative - off of
-3. *aesfii* - Elative - out of
+3. *aesfī* - Elative - out of
 4. *aem* - Egressive - starting from,beginning from
 5. *ii* - Allative - to,toward
 6. *ifu* - Illative - into
-7. *iish* - Sublative - onto
-8. *zhe* - Terminative - up to,as far as
+7. *īš* - Sublative - onto
+8. *že* - Terminative - up to,as far as
 9. *wai* - Perlative - through,along
 10. instrumental - Vialis - by way of, via
 11. *zei* - Essive - as a/the
 12. *zvae* - Exessive - from (a state)
 13. *yn* - Translative - becoming
 
+## Temporal
+
+1. *it* - Temporal - at a specific time/in a specific time interval (at 5:00 pm, in 1926)
+2. *wo* - Durative - for a specific time interval, for the duration of an event (for 200 years, for the duration of the play)
+3. *že it* - Pretemporal - before a time, up to a time
+4. *aem it* - Posttemporal - after a time, starting from a time
+5. *ac* - Intertemporal - between times
+
 ## Other
 
-1. *fwa* - Distributive - per
-2. *vjoo* - Possessive
-4. *fjoo* - equipped with
+1. *fwu* - Distributive - per
+2. *vjū* - Possessive
+4. *fjū* - equipped with
 5. *vjai* - without
 6. *he* - like,esque
 
