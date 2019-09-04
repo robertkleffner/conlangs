@@ -150,12 +150,14 @@ Noun phonotactic rules:
     5. yon = last root vowel colored *ŋ*
     6. which/what = last root vowel colored *l*
 4. Topological (type suffix): default none + (peak, basin, saddle)
-    1. peak = *-c-* + last root vowel + definiteness reduplicated
-    2. basin = *-s-* + last root vowel + definiteness reduplicated
-    3. saddle = *-v-* + last root vowel + definiteness reduplicated
+    1. peak = *-c-* + last root vowel + definiteness
+    2. basin = *-s-* + last root vowel + definiteness
+    3. saddle = *-v-* + last root vowel + definiteness
 
 Quirk: instead of saying "I'm looking for a girl with red hair", having a particular girl in mind, one would
 say, "I'm looking for this girl with red hair". The indefinite cannot introduce a new, specific noun.
+
+Quirk: 'indefinite' paired with 'all' as a subject functions as a type of gnomic aspect, e.g. 'All men die'
 
 Authoritative = "according to", "he said", used with authoritative/quotative evidentiality
 
@@ -197,8 +199,6 @@ Verbs come in 3 classes: front, middle, and back. These correspond to the ending
 2. Middle = *-s*, *-z*, *-š*, *-ž*
 3. Back = *-c*, *-g*
 
-Verbs must have either *e*, *a*, or *o* as the final vowel.
-
 1. Evidentiality: (witness, inferential, hearsay, authoritative/quotative, faith)
     1. witness = final root consonant + confidence *-r*
     2. inferential = final root consonant + confidence + *-l*
@@ -222,7 +222,6 @@ Verbs must have either *e*, *a*, or *o* as the final vowel.
     5. desiderative "want" = *r-* + ū-diphthonged final root vowel
     6. abilitive "can" = *l-* + ū-diphthonged final root vowel
     7. tentative "might" = *wh-* + ū-diphthonged final root vowel
-    8. gerund = *j-* + ū-diphthonged final root vowel
 
 ### Confidence and Evidentiality
 
@@ -239,6 +238,8 @@ There are two non-finite forms: gerund and participle. The gerund form may be in
 
 - Gerund: root + *-j* + final root vowel
 - Participle: root + *-h* + final root vowel + *-ŋ*
+
+With emotions and states of being, the gerund can often function as if it were not a verb, but refering to the state of mind/emotion itself. For example, 'to ask' has a gerund form that means 'curiosity', and 'to love' has a gerund form that means 'love', while both can also be translated effectively as 'asking' or 'loving'.
 
 ### Valence
 
@@ -279,15 +280,19 @@ Thief-the-AGT  ADJV  GERUND-speak-prim-conf-evid  ADJN  softness  spoke-prim-con
 2. Verb -> Noun : "climb" -> "climber", subject performs the act = *-l-* + final root vowel
 4. Noun -> Noun : "rock" -> "boulder", augmentative = *-ro*
 5. Noun -> Noun : "rock" -> "pebble", diminutive = *-lī*
+6. Noun -> Noun : "fire" -> "flame", mass -> instance = *-lī*
 6. Verb -> Noun : "cut" -> "saw", tool used to speed up or assist in an act = *-m-* + final root vowel
 7. Noun -> Noun : "electricity" -> "generator", tool used to produce a noun = *-žu*
 8. Verb -> Noun : "breathe" -> "breath", an instance of the action = *-r-* + final root vowel
 9. Verb -> Verb : "breathe" -> "hyperventilate", the same action intensified = *-n-* + final root vowel + final root consonant
+10. Verb -> Verb : "climb" -> "descend", the same action but reversed or inverted = first root consonant + first root vowel + *-mi* + root
+                                                                                  / first root vowel + *-mir* + root
 
 ## Compounding
 
-Verb + Vowel-Start Noun: **verb** + *-n-* + **noun**
-Verb + Cons-Start Noun: **verb** + *-n-* + final root vowel + **noun**
+Verb + Vowel-Start Noun: **verb** + *-en-* + **noun**
+Verb + Cons-Start Noun: **verb** + *-en-* + final root vowel + **noun**
+Verb + Verb: **verb** + *-er-* + **verb**
 Description Noun + Noun: **noun** + *-ŋ-* + **noun**
 Noun + Verb: **noun** + *-ŋ-* + **verb**
 
@@ -308,7 +313,7 @@ Noun + Verb: **noun** + *-ŋ-* + **verb**
 2. *aesfo* - Delative - off of
 3. *aesfī* - Elative - out of
 4. *aem* - Egressive - starting from,beginning from
-5. *ii* - Allative - to,toward
+5. *ī* - Allative - to,toward
 6. *ifu* - Illative - into
 7. *īš* - Sublative - onto
 8. *že* - Terminative - up to,as far as
@@ -322,9 +327,9 @@ Noun + Verb: **noun** + *-ŋ-* + **verb**
 
 1. *it* - Temporal - at a specific time/in a specific time interval (at 5:00 pm, in 1926)
 2. *wo* - Durative - for a specific time interval, for the duration of an event (for 200 years, for the duration of the play)
-3. *že it* - Pretemporal - before a time, up to a time
-4. *aem it* - Posttemporal - after a time, starting from a time
-5. *ac* - Intertemporal - between times
+3. *zaoit* - Pretemporal - before a time, up to a time
+4. *zaiit* - Posttemporal - after a time, starting from a time
+5. *itfī* - Intertemporal - between times
 
 ## Other
 
@@ -336,4 +341,7 @@ Noun + Verb: **noun** + *-ŋ-* + **verb**
 
 # Expressing Tense
 
-Sometimes it is clear from the context which tense is meant. Sometimes a specific or relative time is referenced.
+Two tense markers, because I am lazy and I really wanted them. Also the periphrastic constructions were getting confusing.
+
+1. *aemit* - future tense, 'will be walking', 'will walk'
+2. *žeith* - past tense, 'was walking', 'walked'

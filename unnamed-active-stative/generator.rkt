@@ -34,6 +34,6 @@ $full never-followed-by $full
 Configuration
 -------------
 
-Seed    = 12345
+Seed    = 123456
 Count   = 500
 Longest = 4
