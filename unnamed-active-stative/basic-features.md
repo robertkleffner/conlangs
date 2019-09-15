@@ -328,7 +328,7 @@ Noun + Verb: **noun** + *-ŋ-* + **verb**
 1. *it* - Temporal - at a specific time/in a specific time interval (at 5:00 pm, in 1926)
 2. *wo* - Durative - for a specific time interval, for the duration of an event (for 200 years, for the duration of the play)
 3. *zaoit* - Pretemporal - before a time, up to a time
-4. *zaiit* - Posttemporal - after a time, starting from a time
+4. *zaīt* - Posttemporal - after a time, starting from a time
 5. *itfī* - Intertemporal - between times
 
 ## Other

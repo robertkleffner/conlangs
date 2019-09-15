@@ -529,13 +529,24 @@ Order = a, ae, e, i, ī, o, u, ū, y, c, g, f, v, t, d, w, wh, h, j, s, z, š, �
     2. to hone.
     > ???? : noun
         1. omnidirectional relief and steepness.
-> ???? : verb
+> sot : verb
     1. to measure.
     2. to evaluate.
     3. to gauge.
-    > ???? : noun
+    > sotro : noun
         1. geocentric distance.
-    > ???? : verb
+    > sotlo : noun
+        1. surveyor.
+        2. assessor.
+    > sotmo : noun
+        1. any distance measurement technology.
+        > sotmoro : noun
+            1. total station.
+            2. electronic distance measuring device.
+        > sotmolī : noun
+            1. measuring tape.
+            2. ruler.
+    > sotnot : verb
         1. to rank.
         2. to put in order.
 > ???? : verb
