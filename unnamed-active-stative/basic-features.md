@@ -129,11 +129,11 @@ Noun phonotactic rules:
 
 1. Plural (type affix): default singular + (zero, some, many, most, all)
     1. singular = unmarked
-    2. zero = *l-* + final root vowel
-    3. some = *m-* + final root vowel
-    4. many = *n-* + final root vowel
-    5. most = *ŋ-* + final root vowel
-    6. all = *r-* + final root vowel
+    2. zero = last root vowel colored *l*
+    3. some = last root vowel colored *m*
+    4. many = last root vowel colored *n*
+    5. most = last root vowel colored *ŋ*
+    6. all = last root vowel colored *r*
 2. Morphosyntactic (type infix): default patientive + (agentive, receptive (He gave a book *to me*), authoritative, causative, instrumental)
     1. patientive = unmarked
     2. agentive = end of first root vowel sequence colored *r*
@@ -144,15 +144,11 @@ Noun phonotactic rules:
 3. Definiteness (type prefix): default indefinite unspecific + (a (particular), the, this, that)
     1. a, nonparticular = unmarked
         * like English, sometimes indefinite is used for gnomic aspect as well
-    2. the = last root vowel colored *r*
-    3. this = last root vowel colored *m*
-    4. that = last root vowel colored *n*
-    5. yon = last root vowel colored *ŋ*
-    6. which/what = last root vowel colored *l*
-4. Topological (type suffix): default none + (peak, basin, saddle)
-    1. peak = *-c-* + last root vowel + definiteness
-    2. basin = *-s-* + last root vowel + definiteness
-    3. saddle = *-v-* + last root vowel + definiteness
+    2. the = *l-* + final root vowel
+    3. this = *m-* + final root vowel
+    4. that = *n-* + final root vowel
+    5. yon = *ŋ-* + final root vowel
+    6. which/what = *r-* + final root vowel
 
 Quirk: instead of saying "I'm looking for a girl with red hair", having a particular girl in mind, one would
 say, "I'm looking for this girl with red hair". The indefinite cannot introduce a new, specific noun.
@@ -172,9 +168,9 @@ Pronouns vary in the root by:
 1. Person (1st, 2nd, 3rd)
 2. Sex in the 3rd (he, she, mix, inan)
 
-*caī* = 'I'
+*cá* = 'I'
 *dī* = 'you'
-*jei* = 'he'
+*jé* = 'he'
 *hy* = 'she'
 *noi* = 'mix'
 *onoi* = nonspecified
@@ -193,6 +189,13 @@ the *which/what* definiteness affix.
 
 ## Verb Marking
 
+Verbs each have one root vowel, from the set of: *a*, *e*, *o*, and *ū*. Additionally, each vowels has a 'twin' that is sometimes used in the derivational morphology. These twin pairings for verbs are:
+
+*a* - *e*
+*o* - *ū*
+*y* - *ae*
+*u* - *ī*
+
 Verbs come in 3 classes: front, middle, and back. These correspond to the ending consonants:
 
 1. Front = *-f*, *-v*, *-t*, *-d*
@@ -206,7 +209,7 @@ Verbs come in 3 classes: front, middle, and back. These correspond to the ending
     4. authoritative/quotative/narrative = final root consonant + confidence + *-ŋ*
     5. faith = final root consonant + confidence + *-n*
 2. Confidence: (certain, confident, unsure)
-    1. confident = *-ao-*
+    1. confident = *-à-*
     2. unsure = *-oi-*
     3. skeptical = *-y-*
 2. Primary aspect: default perfective + (imperfective)
@@ -214,7 +217,10 @@ Verbs come in 3 classes: front, middle, and back. These correspond to the ending
 3. Secondary aspects: default none + (inchoative, cessative)
     1. inchoative = final root vowel + *-r-* + primary aspect
     2. cessative = final root vowel + *-l-* + primary aspect
-4. Moods:
+4. Tense: default present + (past, future)
+    1. past = ū-diphthonged final root vowel
+    2. future = ī-diphthonged final root vowel
+5. Moods:
     1. indicative = default
     2. exhortative "should" = *wh-* + ī-diphthonged final root vowel
     3. permissive "may" = *r-* + ī-diphthonged final root vowel
@@ -285,14 +291,14 @@ Thief-the-AGT  ADJV  GERUND-speak-prim-conf-evid  ADJN  softness  spoke-prim-con
 7. Noun -> Noun : "electricity" -> "generator", tool used to produce a noun = *-žu*
 8. Verb -> Noun : "breathe" -> "breath", an instance of the action = *-r-* + final root vowel
 9. Verb -> Verb : "breathe" -> "hyperventilate", the same action intensified = *-n-* + final root vowel + final root consonant
-10. Verb -> Verb : "climb" -> "descend", the same action but reversed or inverted = first root consonant + first root vowel + *-mi* + root
-                                                                                  / first root vowel + *-mir* + root
+10. Verb -> Verb : "climb" -> "descend", the same action but reversed or inverted = first root consonant + first root vowel opposing twin + *-mi* + root
+                                                                                  / first root vowel opposing twin + *-mir* + root
 
 ## Compounding
 
-Verb + Vowel-Start Noun: **verb** + *-en-* + **noun**
-Verb + Cons-Start Noun: **verb** + *-en-* + final root vowel + **noun**
-Verb + Verb: **verb** + *-er-* + **verb**
+Verb + Noun = Verb: **verb** + *-in-* + **noun** + *-v*
+Verb + Noun = Noun: **verb** + *-il-* + **noun**
+Verb + Verb: **verb** + *-ir-* + **verb**
 Description Noun + Noun: **noun** + *-ŋ-* + **noun**
 Noun + Verb: **noun** + *-ŋ-* + **verb**
 
@@ -304,8 +310,8 @@ Noun + Verb: **noun** + *-ŋ-* + **verb**
 2. *sfī* - Inessive - inside,within
 3. *isfī* - Intrative - between (used with non-collective), among (used with collective)
 4. *sfo* - Pertingent - on,touching
-5. *zao* - Subessive - under,below
-6. *zai* - Superessive - over,above
+5. *zà* - Subessive - under,below
+6. *zá* - Superessive - over,above
 
 ## Motion
 
@@ -317,7 +323,7 @@ Noun + Verb: **noun** + *-ŋ-* + **verb**
 6. *ifu* - Illative - into
 7. *īš* - Sublative - onto
 8. *že* - Terminative - up to,as far as
-9. *wai* - Perlative - through,along
+9. *wá* - Perlative - through,along
 10. instrumental - Vialis - by way of, via
 11. *zei* - Essive - as a/the
 12. *zvae* - Exessive - from (a state)
@@ -327,8 +333,8 @@ Noun + Verb: **noun** + *-ŋ-* + **verb**
 
 1. *it* - Temporal - at a specific time/in a specific time interval (at 5:00 pm, in 1926)
 2. *wo* - Durative - for a specific time interval, for the duration of an event (for 200 years, for the duration of the play)
-3. *zaoit* - Pretemporal - before a time, up to a time
-4. *zaīt* - Posttemporal - after a time, starting from a time
+3. *zàit* - Pretemporal - before a time, up to a time
+4. *zát* - Posttemporal - after a time, starting from a time
 5. *itfī* - Intertemporal - between times
 
 ## Other

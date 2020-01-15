@@ -1,27 +1,30 @@
 # Fiziwig List
 
 - The sun shines.
-    * *Rymorsy fuvensaor* - All suns shine
+    * *Rymorsy fuvensàr* - All suns shine
     * I interpreted this sentence to have a gnomic aspect. The gnomic is best translated with indefinite *all*.
 - The sun is shining.
-    * *Morsyr fuvensaor*
+    * *Morsyr fuvensàr*
 - The sun shone.
-    * *Morsyr fuvesaor*
+    * *Morsyr fuvesàr*
 - The sun will shine.
     * *Morsyr aemit fuvensoil*
 - The sun has been shining.
-    * *Morsyr žeith fuvensaor*
+    * *Morsyr žeith fuvensàr*
 - The sun is shining again.
 - The sun will shine tomorrow.
     * *Morsyr aemit fuvensoir it esūm* - The sun shines after this night.
 - The sun shines brightly.
 - The bright sun shines.
-    * *Morsyr llymosy fuvensaor*
+    * *Morsyr llymosy fuvensàr*
 - The sun is rising now.
     * *Haemfaor mosyr it rījum* - The sun is being hoisted up now.
 - All the people shouted.
-    * *Ruwovur mašnašaor*
+    * *Ruwovur mašnašàr*
 - Some of the people shouted.
-    * *Muwovur mašnašaor*
+    * *Muwovur mašnašàr*
 - Many of the people shouted twice.
 - Happy people often shout.
+
+- He climbed the mountain to see the big valley.
+    * *jér rocàr lomoro olgjo loájaro*

@@ -29,17 +29,17 @@ Order = a, ae, e, i, ī, o, u, ū, y, c, g, f, v, t, d, w, wh, h, j, s, z, š, �
     > llomoro : adj
         1. high.
         2. tall.
-> aija : noun
+> ája : noun
     1. basin.
-    > aijaro : noun
+    > ájaro : noun
         1. depression (geological, large scale).
-    > aijalī : noun
+    > ájalī : noun
         1. pit.
-        > aijalīžu : noun
+        > ájalīžu : noun
             1. shovel.
-    > aijažu : noun
+    > ájažu : noun
         1. excavator.
-    > llaija : adj
+    > llája : adj
         1. low.
         2. short.
 > ževa : noun
@@ -75,10 +75,10 @@ Order = a, ae, e, i, ī, o, u, ū, y, c, g, f, v, t, d, w, wh, h, j, s, z, š, �
             2. a sparkle.
     > fuvesžu : noun
         1. a light source.
-    > fumifuves : verb
+    > fīmifuves : verb
         1. to darken.
         2. to dim.
-        > fumifuvesre : noun
+        > fīmifuvesre : noun
             1. a shadow.
             2. shade.
 > rīju : noun
@@ -105,7 +105,7 @@ Order = a, ae, e, i, ī, o, u, ū, y, c, g, f, v, t, d, w, wh, h, j, s, z, š, �
     2. to inhale (especially in the perfective).
     > sešneš : verb
         1. to hyperventilate.
-    > semiseš : verb
+    > samiseš : verb
         1. to exhale.
         > semisešme : noun
             1. air vent
@@ -123,7 +123,7 @@ Order = a, ae, e, i, ī, o, u, ū, y, c, g, f, v, t, d, w, wh, h, j, s, z, š, �
     2. to hike.
     3. to scale upward.
     4. to move against gravity.
-    > romiroc : verb
+    > rūmiroc : verb
         1. to descend.
         2. to scale downward.
         3. to move with gravity.
@@ -143,13 +143,19 @@ Order = a, ae, e, i, ī, o, u, ū, y, c, g, f, v, t, d, w, wh, h, j, s, z, š, �
     > rocnoc : verb
         1. to free solo.
         2. to boulder, bouldering.
+> rocinmorov : verb
+    1. to climb a mountain.
+    > rocenmorovlo : noun
+        1. mountaineer.
+    > rocenmorovro : noun
+        1. an ascent.
 > haf : verb
     1. to hoist.
     2. to rise (reflexive).
     3. to lift.
     4. to boost.
     5. to elevate.
-    > hamihaf : verb
+    > hemihaf : verb
         1. to set down.
         2. to lie down (reflexive).
         3. to lower.
@@ -177,7 +183,7 @@ Order = a, ae, e, i, ī, o, u, ū, y, c, g, f, v, t, d, w, wh, h, j, s, z, š, �
     > mašnaš : verb
         1. to shout.
         2. to yell.
-    > mamimaš : verb
+    > memimaš : verb
         1. to recant.
         2. to take back one's words.
     > mašra : noun
@@ -215,15 +221,16 @@ Order = a, ae, e, i, ī, o, u, ū, y, c, g, f, v, t, d, w, wh, h, j, s, z, š, �
         1. lava dome.
     > jataŋmororo : noun
         1. shield volcano.
-> jataŋaija : noun
+> jataŋája : noun
     1. caldera.
-    > jataŋaijalī : noun
+    > jataŋájalī : noun
         1. lava lake.
-    > jataŋaijaro : noun
+    > jataŋájaro : noun
         1. megacaldera.
         2. supervolcano.
 > nūs : verb
     1. to speak the truth.
+    2. to tell the truth.
     > nūslū : noun
         1. truth-teller.
         2. a sage.
@@ -237,15 +244,15 @@ Order = a, ae, e, i, ī, o, u, ū, y, c, g, f, v, t, d, w, wh, h, j, s, z, š, �
             1. a theorem.
         > nūsrūlī : noun
             1. a lemma.
-    > nūminūs : verb
+    > nominūs : verb
         1. to lie
-        > nūminūsjū : noun
+        > nominūsjū : noun
             1. dishonesty (gerund form).
-        > nūminūsrū : adj
+        > nominūsrū : adj
             1. a lie.
             2. a falsehood.
             3. a false statement.
-            > llūnūminūsrū : adj
+            > llūnominūsrū : adj
                 1. fake.
                 2. false.
 > sev : verb
@@ -259,9 +266,9 @@ Order = a, ae, e, i, ī, o, u, ū, y, c, g, f, v, t, d, w, wh, h, j, s, z, š, �
         2. to investigate.
         > sevnevre : noun
             1. an investigation.
-    > semisev : verb
+    > samisev : verb
         1. to assume.
-        > semisevre : noun
+        > samisevre : noun
             1. an assumption.
 > dof : verb
     1. to love.
@@ -277,14 +284,14 @@ Order = a, ae, e, i, ī, o, u, ū, y, c, g, f, v, t, d, w, wh, h, j, s, z, š, �
         > dyfrylī : noun
             1. a romantic relationship.
             2. marriage.
-    > domidof : verb
+    > dūmidof : verb
         1. to hate.
         2. to loathe.
-        > domidofjo : noun
+        > dūmidofjo : noun
             1. hate (the emotion) (gerund form).
-        > domidoflo : noun
+        > dūmidoflo : noun
             1. hater.
-> fesh : verb
+> feš : verb
     1. to humbly strive for.
     2. to humbly aspire to.
     > fešje : noun
@@ -299,7 +306,7 @@ Order = a, ae, e, i, ī, o, u, ū, y, c, g, f, v, t, d, w, wh, h, j, s, z, š, �
         > fešnešle : noun
             1. perfectionist.
             2. flawless achiever.
-    > femifeš : verb
+    > famifeš : verb
         1. to lose partly due to arrogance.
         2. to fail after shit-talking.
 > až : verb
@@ -328,11 +335,11 @@ Order = a, ae, e, i, ī, o, u, ū, y, c, g, f, v, t, d, w, wh, h, j, s, z, š, �
         3. to jeopardize.
         > ažnažla : noun
             1. a gambler.
-    > amiraž : verb
+    > emiraž : verb
         1. to retreat.
         2. to shy away.
         3. to back down.
-> ažerdof : verb
+> ažirdof : verb
     1. to flirt with.
     2. to try to seduce.
     > ažerdofjo : noun
@@ -340,6 +347,9 @@ Order = a, ae, e, i, ī, o, u, ū, y, c, g, f, v, t, d, w, wh, h, j, s, z, š, �
     > ažerdoflo : noun
         1. a flirt.
         2. flirtatious person.
+> ažirmaš : verb
+    1. to stutter.
+    2. to stammer.
 > og : verb
     1. to see.
     2. to look at.
@@ -370,23 +380,26 @@ Order = a, ae, e, i, ī, o, u, ū, y, c, g, f, v, t, d, w, wh, h, j, s, z, š, �
             1. a quest.
         > ognogmo : noun
             1. a map.
-    > omirog : verb
+    > ūmirog : verb
         1. to overlook.
         2. to miss by not looking.
-        > omiroglo : noun
+        > ūmiroglo : noun
             1. unaware person.
             2. oblivious person.
-        > omirogmo : noun
+        > ūmirogmo : noun
             1. blinders.
             2. a blindfold.
-        > omirogro : noun
+        > ūmirogro : noun
             1. an oversight.
-        > omirognog : verb
+        > ūmirognog : verb
             1. to ignore.
             2. to disregard.
-            > omirognogjo : verb
+            > ūmirognogjo : verb
                 1. ignorance.
                 2. refusal to acknowledge reality.
+> oginmorov : verb
+    1. to see the end and feel relief.
+    2. to see light at the end of the tunnel.
 > rute : noun
     1. water.
     > rutero : noun
@@ -451,7 +464,7 @@ Order = a, ae, e, i, ī, o, u, ū, y, c, g, f, v, t, d, w, wh, h, j, s, z, š, �
         3. to pass out (patient w/no agent).
         > jūtnūtlū : noun
             1. anesthetologist
-    > jūmijūt : verb
+    > jomijūt : verb
         1. to wake.
         > jūmijūtmū : noun
             1. an alarm.
@@ -469,11 +482,11 @@ Order = a, ae, e, i, ī, o, u, ū, y, c, g, f, v, t, d, w, wh, h, j, s, z, š, �
         > vūfnūfrū : verb
             1. a rapid.
             2. a water slide.
-    > vūmivūf : verb
+    > vomivūf : verb
         1. to congeal.
         2. to coagulate.
         3. to set.
-        > vūmivūfrū : noun
+        > vomivūfrū : noun
             1. mud.
             2. sludge.
             3. batter.
@@ -503,32 +516,87 @@ Order = a, ae, e, i, ī, o, u, ū, y, c, g, f, v, t, d, w, wh, h, j, s, z, š, �
             1. a gust.
             > lašnašralī : noun
                 1. a microburst.
-    > lamilaš : verb
+    > lemilaš : verb
         1. to soothe.
         2. to make calm.
-        > lamilašma : noun
+        > lemilašma : noun
             1. tranquilizer.
-> ???? : verb
+> cod : verb
     1. to build.
     2. to stack up.
-    > ???? : noun
+    3. to construct.
+    > codjo : noun
+        1. construction.
+    > codro : noun
         1. elevation.
-> ???? : verb
+        2. height.
+    > codlo : noun
+        1. builder.
+    > codmo : noun
+        1. tool.
+        > codmoro : noun
+            1. power tool.
+        > codmolī : noun
+            1. a nail.
+            2. a screw.
+            3. a bolt.
+    > codnod : verb
+        1. to erect.
+        2. to stack high.
+    > cūmicod : verb
+        1. to dismantle.
+        2. to disassemble.
+        > cūmicodnod : verb
+            1. to demolish.
+> šūg : verb
     1. to separate.
     2. to pull apart.
-    > ???? : noun
+    > šūgrū : noun
         1. isolation.
-> ???? : verb
+    > šūgmū : noun
+        1. a wedge.
+        > šūgmūro : noun
+            1. a saw.
+        > šūgmūlī : noun
+            1. a knife.
+    > šūglū : noun
+        1. provacateur.
+        2. instigator.
+        3. revolutionary.
+    > šūgnūg : verb
+        1. to cut.
+        2. to split.
+        > šūgnūgmū : noun
+            1. an axe.
+            > šūgnūgmūlī : noun
+                1. scissors.
+> wymef : verb
     1. to fascinate.
     2. to enrapture.
     3. to beguile.
-    > ???? : noun
+    > wymefre : noun
         1. prominence.
-> ???? : verb
+    > wymefme : noun
+        1. glamour.
+        2. make-up.
+        3. finishing touches.
+    > wymefle : noun
+        1. an impressive extrovert.
+        2. a charismatic person.
+        3. someone larger-than-life.
+    > wymefnef : verb
+        1. to shock.
+        2. to overwhelm.
+        3. to amaze.
+    > waemiwymef : verb
+        1. to bore.
+> caš : verb
     1. to sharpen.
     2. to hone.
-    > ???? : noun
+    > cašra : noun
         1. omnidirectional relief and steepness.
+    > cašma : noun
+        1. a whetstone.
 > sot : verb
     1. to measure.
     2. to evaluate.
@@ -549,13 +617,123 @@ Order = a, ae, e, i, ī, o, u, ū, y, c, g, f, v, t, d, w, wh, h, j, s, z, š, �
     > sotnot : verb
         1. to rank.
         2. to put in order.
-> ???? : verb
+    > sūmisot : verb
+        1. to muddle.
+        2. to confuse.
+> wež : verb
     1. to spin.
     2. to rotate.
-    > ???? : noun
+    > wežre : noun
         1. a vortex.
         2. a cyclone.
-        > ???? : noun
+        > wežrero : noun
             1. a hurricane.
-        > ???? : noun
+        > wežrelī : noun
             1. a twister.
+> heilac : verb
+    1. to press.
+    2. to squeeze.
+    > heilacnac : verb
+        1. to crush.
+        2. to squish.
+    > hamiheilac : verb
+        1. to inflate.
+        2. to swell (patientive).
+> wov : verb
+    1. to tie.
+    2. to bind.
+    > wovro : noun
+        1. a knot.
+    > wovlo : noun
+        1. a rigger.
+    > wovnov : verb
+        1. to wrap around.
+        2. to constrict.
+    > womiwov : verb
+        1. to untie.
+        2. to release.
+> tac : verb
+    1. to stand (reflexive).
+    2. to stand up (as in, 'i stood up the program').
+    3. to initiate.
+    > tacra : noun
+        1. a statue.
+    > tacla : noun
+        1. a pioneer.
+    > tacma : noun
+        1. a cane.
+    > tacnac : verb
+        1. to withstand.
+        2. to stand against.
+        > tacnacma : verb
+            1. armor.
+    > temitac : verb
+        1. to sit (reflexive).
+        2. to stand down.
+        3. to shut down.
+        4. to sit before (with receptive).
+        > temitacnac : verb
+            1. to bow (reflexive).
+            2. to lie down.
+            3. to bow before (with receptive).
+> mašiljatav : verb
+    1. to insult.
+    2. to blaspheme.
+    > mašenjatavro : noun
+        1. an insult.
+        2. a verbal burn.
+> mašilrutev : verb
+    1. to apologize.
+> heš : verb
+    1. to sing.
+    > hešre : noun
+        1. a song.
+    > hešle : noun
+        1. singer.
+    > hešneš : verb
+        1. to scream.
+        > hešnešle : noun
+            1. screamer.
+    > hamiheš : verb
+        1. to stifle.
+> hešilmoro : noun
+    1. name of this language (mountain dialect).
+    > hešinmorovlo : noun
+        1. speaker of the mountain dialect.
+> hešilája : noun
+    1. name of this language (basin dialect).
+    > hešinájavla : noun
+        1. speaker of the basin dialect.
+> žog : verb
+    1. to kill.
+    2. to die (no agent).
+    > žoglo : noun
+        1. killer.
+    > žogmo : noun
+        1. weapon.
+    > žognog : verb
+        1. to murder.
+        2. to butcher.
+        3. to perish (no agent).
+    > žūmižog : verb
+        1. to save.
+        2. to rescue.
+
+
+to give birth
+    to abort
+to have sex with
+    to pound
+to bite
+    to chew
+    to kiss
+to win
+    to dominate
+    to lose
+to own
+    to possess
+    to lack
+to hear
+    to listen to
+    to ignore
+to eat, to consume
